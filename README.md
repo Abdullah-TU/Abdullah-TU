@@ -2,6 +2,9 @@
 
 *Applied ML • Data Science • Geospatial & Environmental Analytics*
 
+## Interest
+🧪 **GenAI & LLMs   
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
