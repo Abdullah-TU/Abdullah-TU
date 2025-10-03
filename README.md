@@ -26,9 +26,7 @@
 
 * **📚 Publications:** [Research-Publications](https://github.com/Abdullah-TU/Research-Publications)
 * **🧠 Deep Learning Portfolio:** [Deep-Learning-Projects](https://github.com/Abdullah-TU/Deep-Learning-Projects)
-* **💼 LLM App — Graham Defensive Investor Analyzer:**
-  "Upload an annual report → get an audit‑traceable investment verdict." The app extracts financial metrics from PDFs using a hybrid **LLM + rule‑based** pipeline, reconciles missing data, and evaluates all **seven Graham defensive criteria** with confidence scoring and clear, reproducible reasoning.
-  ➜ [https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
+* **💼 LLM App — Graham Defensive Investor Analyzer:**[](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
 
 ---
 
