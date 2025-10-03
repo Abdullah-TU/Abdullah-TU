@@ -4,31 +4,12 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin\)]
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar\)]
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?logo=orcid\)]
-[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?logo=github\e)]
-[![Email](https://img.shields.io/badge/Email-md.abdullah.al.mamun.tu%40gmail.com-EA4335?logo=gmail\)]
+[![LinkedIn](assets/buttons/linkedin.png)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
+[![Google Scholar](assets/buttons/scholar.png)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
+[![ORCID](assets/buttons/orcid.png)](https://orcid.org/0009-0001-6749-9171)
+[![GitHub](assets/buttons/github.png)](https://github.com/Abdullah-TU)
+[![Email](assets/buttons/email.png)](mailto:md.abdullah.al.mamun.tu@gmail.com)
 
-
----
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" height="28">
-  </a>
-  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" title="Google Scholar">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlescholar.svg" alt="Google Scholar" height="28">
-  </a>
-  <a href="https://orcid.org/0009-0001-6749-9171" title="ORCID">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/orcid.svg" alt="ORCID" height="28">
-  </a>
-  <a href="https://github.com/Abdullah-TU" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" alt="GitHub" height="28">
-  </a>
-  <a href="mailto:md.abdullah.al.mamun.tu@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Email" height="28">
-  </a>
-</p>
 
 ---
 
