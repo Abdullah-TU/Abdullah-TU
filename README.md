@@ -1,55 +1,118 @@
-### Hi, I'm Md Abdullah-Al Mamun 👋
+# Hi, I'm Md. Abdullah‑Al Mamun 👋
 
-[cite_start]I am a Data Scientist and Researcher with a background in Software Engineering and Biotechnology[cite: 12, 20, 23]. I am passionate about applying machine learning and data-driven methods to solve complex problems, with a current focus on preparing for doctoral studies in Generative AI for Software Engineering.
+*Applied ML • Data Science • Geospatial & Environmental Analytics*
 
-My goal is to develop and evaluate reliable, auditable, and efficient GenAI components for SE tasks. [cite_start]My CV provides a full overview of my academic and professional background[cite: 2].
-
----
-
-### 🔬 Research & Academic Interests
-
-* [cite_start]Generative AI & Large Language Models (LLMs) [cite: 67]
-* [cite_start]Machine Learning & Deep Learning Applications [cite: 71]
-* [cite_start]Software Engineering & Automated Testing [cite: 22, 69]
-* [cite_start]Data Mining & Statistical Modeling [cite: 19, 71]
-* [cite_start]Environmental Science & Spatial Analysis [cite: 71, 72]
-* [cite_start]Bioinformatics & Biostatistics [cite: 25]
+I build practical ML/DL systems (FastAPI, PyTorch/TensorFlow) and research explainable models for environmental risk and groundwater quality. I like clean repos, reproducible notebooks, and clear READMEs.
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🔗 You can follow me here
 
-* [cite_start]**Programming:** Python, R, Java, JavaScript, TypeScript, MATLAB [cite: 59]
-* [cite_start]**Machine Learning:** Scikit-Learn, NumPy, Pandas, SciPy, NLP [cite: 62]
-* [cite_start]**Deep Learning:** PyTorch, TensorFlow [cite: 66]
-* [cite_start]**Databases & Visualization:** SQL, PostgreSQL, Power BI, Matplotlib, Seaborn [cite: 60, 61]
-* [cite_start]**Developer Tools:** Git, GitHub, Android App Development, Unit Testing [cite: 68, 69]
-* [cite_start]**Cloud & GIS:** AWS, Microsoft Azure, QGIS, ArcGIS [cite: 68, 72]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/)<!-- your-handle -->)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4)]([https://scholar.google.com/citations?user=](https://scholar.google.com/citations?user=)<!-- scholar-id -->)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF)]([https://kaggle.com/](https://kaggle.com/)<!-- your-handle -->)
+[![Medium](https://img.shields.io/badge/Medium-12100E)]([https://medium.com/@](https://medium.com/@)<!-- your-handle -->)
+[![Substack](https://img.shields.io/badge/Substack-FF6719)](https://<!-- your-substack -->)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000)]([https://youtube.com/@](https://youtube.com/@)<!-- your-channel -->)
 
----
-
-### Highlighted Projects
-
-Here are a few selected projects. Please see my repositories for more of my work.
-
-* **Project 1: [Name of Your Best ML or Data Science Project]**
-    * **Description:** [Briefly describe the project here. For example: "This project involved using Python, Pandas, and Scikit-learn to analyze and predict coastal groundwater quality, as part of the research published in the Journal of Contaminant Hydrology."]
-    * **Link:** `[Link to Your Project Repository]`
-
-* **Project 2: [Name of Your Best Software Engineering Project]**
-    * **Description:** [Briefly describe the project here. For example: "A full-stack web application developed as part of my B.Sc. coursework, demonstrating skills in Java, SQL, and software engineering principles."]
-    * **Link:** `[Link to Your Project Repository]`
-
-* **Project 3: [Name of Your Master's Thesis Project]**
-    * **Description:** [Briefly describe the project here. [cite_start]For example: "Code and data analysis for my Master's thesis, where I used Python and Power BI to evaluate and select the optimal BI and SPC software for Valmet Automotive."] [cite: 33, 34]
-    * **Link:** `[Link to Your Project Repository]`
+> Quick access: **[📄 Technical CV](!-- link-to-CV_Technical_Md-Abdullah-Al-Mamun.pdf --)** · **[📄 Academic CV](!-- link-to-CV_Academic_Md-Abdullah-Al-Mamun.pdf --)** · **[🌐 Portfolio Site](https://<!-- your-user -->.github.io)**
 
 ---
 
-### 📫 Connect With Me
+## 🚀 What I work with
 
-<p align="left">
-  <a href="mailto:md.abdullah.al.mamun.tu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="[Your LinkedIn Profile URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[Your ORCID Profile URL]" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-</p>
+**Programming:** Python • R • JavaScript/TypeScript • Java • MATLAB
+**ML/DL:** PyTorch • TensorFlow • scikit‑learn • XGBoost • SHAP/XAI
+**Data:** SQL • PostgreSQL • MySQL • Pandas • Polars
+**MLOps / Apps:** FastAPI • Docker • GitHub Actions • Streamlit/Gradio
+**Viz & GIS:** Matplotlib • Plotly • Power BI • QGIS/ArcGIS
+
+---
+
+## 🧠 Featured projects
+
+| Project                                   | What it does                                                                                                    | Tech                                          |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Graham Defensive Investor Analyzer**    | FastAPI app that parses PDFs, extracts financials with LLM+rules, and scores companies with confidence metrics. | Python, FastAPI, Pydantic, PDF parsing, JS UI |
+| **Groundwater Quality Prediction (GW‑P)** | ML + geostatistics to predict phosphate; notebooks and reproducible pipeline with SHAP.                         | Python, GeoPandas, scikit‑learn, SHAP         |
+| **Ummah Compass (Prayer Times)**          | Web app with clean UI, timezone handling, and offline cache.                                                    | JS/TS, React/Vite, Service Worker             |
+| **PDF‑to‑Image Converter**                | CLI/GUI to batch convert PDFs to images with metadata.                                                          | Python, Typer, Pillow                         |
+
+> 📌 Pin these repos so they appear on your profile.
+
+---
+
+## 📚 Publications (selected)
+
+* **Science of the Total Environment (2024).** *Predicting groundwater phosphate levels in coastal multi‑aquifers: A geostatistical and data‑driven approach.* DOI: 10.1016/j.scitotenv.2024.176024
+* **Journal of Contaminant Hydrology (2025).** *Optimizing coastal groundwater quality predictions…* DOI: 10.1016/j.jconhyd.2024.104480
+* **Marine Pollution Bulletin (2026).** *Tracing source footprints of heavy metal(oid)s in coastal soils…* DOI: 10.1016/j.marpolbul.2025.118701
+
+> Add the rest in a separate `publications.md`.
+
+---
+
+## 📝 Recent writing
+
+* Data science interview Q&A and tips
+* Efficient Python for data scientists
+* Practical ML tips and checklists
+
+*(Link Medium/Substack posts above.)*
+
+---
+
+## 🗂️ Reproducible repo pattern
+
+```
+project-name/
+├─ README.md                # what/why/how + demo gif
+├─ LICENSE
+├─ environment.yml | pyproject.toml
+├─ src/                    # package code
+├─ notebooks/              # 00_*.ipynb -> 99_*.ipynb (numbered)
+├─ data/
+│  ├─ raw/  ├─ interim/  ├─ processed/ (gitignored)
+├─ models/                 # saved models (gitignored)
+├─ tests/
+├─ scripts/
+└─ docs/                   # screenshots, diagrams
+```
+
+---
+
+## 📈 GitHub goodies (optional)
+
+![Profile views]([https://komarev.com/ghpvc/?username=](https://komarev.com/ghpvc/?username=)<!-- your-user -->)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=](https://github-readme-stats.vercel.app/api/top-langs/?username=)<!-- your-user -->&layout=compact)
+![Stats]([https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=)<!-- your-user -->&show_icons=true)
+
+> Replace `<!-- your-user -->` and other placeholders.
+
+---
+
+## 🤝 Mentoring & collaboration
+
+I’m open to research collaborations (flood resilience, groundwater, XAI) and industry projects (NLP for documents, tabular ML). **Reach me on LinkedIn or email.**
+
+---
+
+### How to use this template
+
+1. Create a special repo named **`<your-username>/<your-username>`**.
+2. Add a file `README.md` and paste this content (after filling placeholders).
+3. Pin 6 repositories on your profile (⚙️ Profile → Customize your pins).
+4. Add repo topics and a clear LICENSE for each project.
+5. (Optional) Enable **GitHub Pages** on a portfolio repo for a fuller site.
+
+---
+
+### Badges you might like
+
+* Build: `![CI](https://github.com/<user>/<repo>/actions/workflows/ci.yml/badge.svg)`
+* License: `![License](https://img.shields.io/badge/License-MIT-green.svg)`
+* Releases: `![Release](https://img.shields.io/github/v/release/<user>/<repo>)`
+
+---
+
+**Last updated:** <!-- YYYY‑MM‑DD -->
