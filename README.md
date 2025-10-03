@@ -27,6 +27,23 @@
 ●	Research domains: Environmental Science, ML & DL Applications, Artificial Intelligence, Statistical Modeling. 
 ●	Spatial Analysis: GIS Mapping (QGIS, ArcGIS), Geostatistical Analysis, Spatial Modeling.
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-?logo=linkedin&logoColor=white&color=0A66C2&style=flat" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-?logo=googlescholar&logoColor=white&color=4285F4&style=flat" />
+  </a>
+  <a href="https://orcid.org/0009-0001-6749-9171" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-?logo=orcid&logoColor=white&color=A6CE39&style=flat" />
+  </a>
+  <a href="https://github.com/Abdullah-TU" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-?logo=github&logoColor=white&color=181717&style=flat" />
+  </a>
+  <a href="mailto:md.abdullah.al.mamun.tu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-?logo=gmail&logoColor=white&color=EA4335&style=flat" />
+  </a>
+</p>
 
 
 ## 📁 Projects & Resources
