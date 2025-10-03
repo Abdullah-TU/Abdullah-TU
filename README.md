@@ -71,7 +71,8 @@
 ## Interest
 **GenAI & LLMs**
 
-## Hobby
+## My-Paintings
+
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="41" height="52">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="41" height="52">
