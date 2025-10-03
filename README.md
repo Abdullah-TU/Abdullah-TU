@@ -12,13 +12,19 @@
 
 ---
 
-## 🚀 What I work with
-Programming: **Python • R • JavaScript/TypeScript • Java • MATLAB**  
-ML/DL: **PyTorch • TensorFlow • scikit-learn • XGBoost • SHAP/XAI**  
-Data: **SQL • PostgreSQL • MySQL • Pandas • Polars**  
-MLOps / Apps: **FastAPI • Docker • GitHub Actions • Streamlit/Gradio**  
-Viz & GIS: **Matplotlib • Plotly • Power BI • QGIS/ArcGIS**
-
+ ACADEMIC AND PROFESSIONAL SKILLS
+●	Programming: Python, Statistical R, Java, JavaScript, TypeScript, MATLAB.
+●	Databases: SQL, PostgreSQL, MySQL.
+●	Visualization: Matplotlib, Seaborn, Plotly, ggplot, Microsoft Power BI.
+●	Machine Learning Skills: NumPy, Pandas, SciPy, Scikit-Learn, NLP, Text Data Analysis, Image Analysis.
+●	Deep Learning: TensorFlow, PyTorch, Neural Networks.
+●	Generative AI & LLM: Large Language Model Integration, LLM-based Data Extraction, GenAI Applications, Prompt Engineering. 
+●	Development & Version Control: Android App Development (Java), Git, GitHub.
+●	Cloud Platforms: AWS, Microsoft Azure.
+●	Testing: Unit Testing, Integration Testing.
+●	Laboratory and industrial skills: Excel, SAP, FidaWare, Power BI, Analytic suite, 3D Scanning, Digital microscopy.
+●	Research domains: Environmental Science, ML & DL Applications, Artificial Intelligence, Statistical Modeling. 
+●	Spatial Analysis: GIS Mapping (QGIS, ArcGIS), Geostatistical Analysis, Spatial Modeling.
 ---
 
 ## 📁 Projects & Resources
