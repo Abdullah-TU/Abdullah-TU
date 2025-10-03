@@ -26,6 +26,8 @@
 
 <h2> Projects & Resources</h2>
 
+<h2>📁 Open Source & Projects</h2>
+
 <table style="width:100%; table-layout:auto;">
   <thead>
     <tr>
@@ -36,34 +38,35 @@
   <tbody>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Research-Publications">Research Publications</a></td>
-      <td>Peer-reviewed articles with DOIs and brief notes.</td>
+      <td>My research and publications.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">Deep Learning Projects</a></td>
-      <td>CNN/RNN/NLP notebooks with configs and results.</td>
+      <td>My deep learning projects.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Machine-Learning-projects">Machine-Learning projects</a></td>
-      <td>Classification, regression, clustering, PCA; CIFAR-10 CNN; credit-risk and diabetes cases.</td>
+      <td>My classical machine learning projects.</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">Graham Analyzer</a></td>
-      <td>FastAPI app: extract metrics from annual reports (LLM + rules) and score all seven Graham criteria.</td>
+      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">Graham Defensive Investor Analyzer</a></td>
+      <td>My LLM + FastAPI app for annual-report analysis.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Python">Python</a></td>
-      <td>Utilities and notebooks for data wrangling, viz, and small ML experiments.</td>
+      <td>My Python utilities and notebooks.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML">Academic&nbsp;Projects&nbsp;in&nbsp;AI&nbsp;&amp;&nbsp;ML</a></td>
-      <td>Coursework case studies in classical ML, feature engineering, and evaluation.</td>
+      <td>My academic AI/ML projects.</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R (tidyverse)</a></td>
-      <td>R scripts for analysis and reporting using tidyverse/ggplot2.</td>
+      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R-Language</a></td>
+      <td>My R scripts and notes.</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Interest
