@@ -14,11 +14,6 @@
 
 ---
 
- ACADEMIC AND PROFESSIONAL SKILLS
-Great—let’s keep your **exact content** but tighten wording, fix duplicates, and make the categories parallel. Here are two polished versions:
-
----
-
 <p><strong>ACADEMIC &amp; PROFESSIONAL SKILLS</strong></p>
 <p>
 👨‍💻 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
