@@ -4,7 +4,8 @@
 
 ## Connect
 
-[![LinkedIn](<img width="752" height="190" alt="hd-linkedin-blue-official-logo-png-701751694779201bpivk39ebc" src="https://github.com/user-attachments/assets/4c0aea18-c3f5-45ba-86e3-b32eebf3ddf5" />
+[![LinkedIn](<img width="752" height="190" alt="hd-linkedin-blue-official-logo-png-701751694779201bpivk39ebc-removebg-preview" src="https://github.com/user-attachments/assets/33ad2bda-c47d-4ac3-b8ca-81c308df185c" />
+
 assets/buttons/linkedin.png)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
 [![Google Scholar](assets/buttons/scholar.png)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
 [![ORCID](assets/buttons/orcid.png)](https://orcid.org/0009-0001-6749-9171)
