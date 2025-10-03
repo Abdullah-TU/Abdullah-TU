@@ -39,34 +39,35 @@
   <tbody>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Research-Publications">Research Publications</a></td>
-      <td>Curated list of peer-reviewed articles with DOIs and short highlights.</td>
+      <td>Peer-reviewed articles with DOIs and brief notes.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">Deep Learning Projects</a></td>
-      <td>Reproducible DL notebooks (CNNs, RNNs, FER-2013, vision/NLP) with configs and results.</td>
+      <td>CNN/RNN/NLP notebooks with configs and results.</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Machine-Learning-projects">Machine-Learning-projects</a></td>
-      <td>End-to-end ML notebooks: classification (SVM, RF, NB), regression, clustering (K-Means), PCA, CNN (CIFAR-10), credit-risk &amp; diabetes projects; README run notes.</td>
+      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Machine-Learning-projects">Machine-Learning projects</a></td>
+      <td>Classification, regression, clustering, PCA; CIFAR-10 CNN; credit-risk and diabetes cases.</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">Graham Defensive Investor Analyzer</a></td>
-      <td>Full-stack <strong>LLM + rule-based</strong> pipeline: parse annual reports, extract metrics, reconcile gaps, and evaluate all seven Graham criteria with confidence scoring.</td>
+      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">Graham Analyzer</a></td>
+      <td>FastAPI app: extract metrics from annual reports (LLM + rules) and score all seven Graham criteria.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Python">Python</a></td>
-      <td>Utilities and notebooks for data wrangling, visualization, and small ML experiments.</td>
+      <td>Utilities and notebooks for data wrangling, viz, and small ML experiments.</td>
     </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML">Academic&nbsp;Projects&nbsp;in&nbsp;AI&nbsp;&amp;&nbsp;ML</a></td>
-      <td>Coursework and case studies (classical ML, feature engineering, evaluation).</td>
+      <td>Coursework case studies in classical ML, feature engineering, and evaluation.</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R-Language</a></td>
-      <td>R scripts for statistical analysis and reporting (tidyverse/ggplot2).</td>
+      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R (tidyverse)</a></td>
+      <td>R scripts for analysis and reporting using tidyverse/ggplot2.</td>
     </tr>
   </tbody>
 </table>
+
 
 ## Interest
 **GenAI & LLMs**
