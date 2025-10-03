@@ -26,8 +26,6 @@
 
 <h2> Projects & Resources</h2>
 
-<h2>📁 Open Source & Projects</h2>
-
 <table style="width:100%; table-layout:auto;">
   <thead>
     <tr>
