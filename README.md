@@ -64,6 +64,11 @@
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R-Language</a></td>
       <td>My R scripts and notes.</td>
     </tr>
+    <tr>
+  <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/My-Paintings">My Paintings</a></td>
+  <td>My paintings and artwork.</td>
+</tr>
+
   </tbody>
 </table>
 
