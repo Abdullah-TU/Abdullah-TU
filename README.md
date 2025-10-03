@@ -12,19 +12,6 @@
 
 ---
 
-# Md. Abdullah-Al Mamun
-
-_Applied ML • Data Science • Geospatial & Environmental Analytics_
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?logo=github&logoColor=white)](https://github.com/Abdullah-TU)
-[![Email](https://img.shields.io/badge/Email-md.abdullah.al.mamun.tu%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:md.abdullah.al.mamun.tu@gmail.com)
-
----
-
 ## 🚀 What I work with
 Programming: **Python • R • JavaScript/TypeScript • Java • MATLAB**  
 ML/DL: **PyTorch • TensorFlow • scikit-learn • XGBoost • SHAP/XAI**  
