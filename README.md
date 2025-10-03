@@ -12,6 +12,24 @@
 
 
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/">
+    <img src="https://img.shields.io/badge/%20-%20?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1">
+    <img src="https://img.shields.io/badge/%20-%20?logo=googlescholar&logoColor=white&labelColor=4285F4&color=4285F4&style=flat" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0009-0001-6749-9171">
+    <img src="https://img.shields.io/badge/%20-%20?logo=orcid&logoColor=white&labelColor=A6CE39&color=A6CE39&style=flat" alt="ORCID">
+  </a>
+  <a href="https://github.com/Abdullah-TU">
+    <img src="https://img.shields.io/badge/%20-%20?logo=github&logoColor=white&labelColor=181717&color=181717&style=flat" alt="GitHub">
+  </a>
+  <a href="mailto:md.abdullah.al.mamun.tu@gmail.com">
+    <img src="https://img.shields.io/badge/%20-%20?logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335&style=flat" alt="Email">
+  </a>
+</p>
+---
 
  ACADEMIC AND PROFESSIONAL SKILLS
 ●	Programming: Python, Statistical R, Java, JavaScript, TypeScript, MATLAB.
