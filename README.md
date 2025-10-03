@@ -3,14 +3,11 @@
 *Applied ML • Data Science • Geospatial & Environmental Analytics*
 
 ## Connect
-
-[![LinkedIn](<img width="752" height="190" alt="hd-linkedin-blue-official-logo-png-701751694779201bpivk39ebc" src="https://github.com/user-attachments/assets/c9f06162-6537-4b2f-b2fe-7864ee8b3f2d" />
-)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
-[![Google Scholar](assets/buttons/scholar.png)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
-[![ORCID](assets/buttons/orcid.png)](https://orcid.org/0009-0001-6749-9171)
-[![GitHub](assets/buttons/github.png)](https://github.com/Abdullah-TU)
-[![Email](assets/buttons/email.png)](mailto:md.abdullah.al.mamun.tu@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?logo=github&logoColor=white)](https://github.com/Abdullah-TU)
+[![Email](https://img.shields.io/badge/Email-md.abdullah.al.mamun.tu%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:md.abdullah.al.mamun.tu@gmail.com)
 
 ---
 
