@@ -8,7 +8,7 @@ I build practical ML/DL systems (FastAPI, PyTorch/TensorFlow) and research expla
 
 ## 🔗 You can follow me here
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)]([[https://www.linkedin.com/in/](https://www.linkedin.com/in/](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/))<!-- your-handle -->)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)]([[[https://www.linkedin.com/in/](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)](https://www.linkedin.com/in/](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/))<!-- your-handle -->)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4)]([https://scholar.google.com/citations?user=](https://scholar.google.com/citations?user=)<!-- scholar-id -->)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF)]([https://kaggle.com/](https://kaggle.com/)<!-- your-handle -->)
 [![Medium](https://img.shields.io/badge/Medium-12100E)]([https://medium.com/@](https://medium.com/@)<!-- your-handle -->)
