@@ -80,12 +80,12 @@
 ## My Paintings
 
 <p float="right">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="41" height="52">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="41" height="52">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="41" height="52">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="100" height="51">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="100" height="51">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="41" height="52">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="200" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="200" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="82" height="100">
 </p>
 
 
