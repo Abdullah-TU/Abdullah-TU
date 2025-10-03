@@ -19,19 +19,21 @@ Great—let’s keep your **exact content** but tighten wording, fix duplicates,
 
 ---
 
-**ACADEMIC & PROFESSIONAL SKILLS**
-- 👨‍💻 **Programming:** Python, R, Java, JavaScript/TypeScript, MATLAB
-- 🗄️ **Databases:** SQL (PostgreSQL, MySQL)
-- 📊 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Power BI
-- 🤖 **ML:** NumPy, Pandas, SciPy, scikit-learn; NLP & CV
-- 🧠 **Deep Learning:** PyTorch, TensorFlow; neural networks
-- 🧪 **GenAI & LLMs:** LLM integration, data extraction, GenAI apps, prompt engineering
-- 🛠️ **Dev & VCS:** Android (Java), Git, GitHub
-- ☁️ **Cloud:** AWS, Azure
-- ✅ **Testing:** Unit & integration
-- 🗺️ **Spatial:** QGIS, ArcGIS; geostatistics & spatial modeling
-- 🧪 **Lab/Industrial:** Excel, SAP, FidaWare, 3D scanning, digital microscopy
-- 🔬 **Research Domains:** Environmental science; AI/ML; statistical modeling
+<p><strong>ACADEMIC &amp; PROFESSIONAL SKILLS</strong></p>
+<p>
+👨‍💻 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
+🗄️ <strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
+📊 <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+🤖 <strong>ML:</strong> NumPy, Pandas, SciPy, scikit-learn; NLP &amp; CV<br>
+🧠 <strong>Deep Learning:</strong> PyTorch, TensorFlow; neural networks<br>
+🧪 <strong>GenAI &amp; LLMs:</strong> LLM integration, data extraction, GenAI apps, prompt engineering<br>
+🛠️ <strong>Dev &amp; VCS:</strong> Android (Java), Git, GitHub<br>
+☁️ <strong>Cloud:</strong> AWS, Azure<br>
+✅ <strong>Testing:</strong> Unit &amp; integration<br>
+🗺️ <strong>Spatial:</strong> QGIS, ArcGIS; geostatistics &amp; spatial modeling<br>
+🧪 <strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy<br>
+🔬 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
+</p>
 
 ## 📁 Projects & Resources
 
