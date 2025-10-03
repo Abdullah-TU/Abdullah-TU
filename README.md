@@ -37,9 +37,6 @@ Viz & GIS: **Matplotlib • Plotly • Power BI • QGIS/ArcGIS**
 ## 📁 Projects & Resources
 
 | Topic | Summary |
-## 📁 Projects & Resources
-
-| Topic | Summary |
 |---|---|
 | [Research Publications](https://github.com/Abdullah-TU/Research-Publications) | Curated list of peer-reviewed articles with DOIs and short highlights. |
 | [Deep Learning Projects](https://github.com/Abdullah-TU/Deep-Learning-Projects) | Reproducible DL notebooks (CNNs, RNNs, FER-2013, vision/NLP), with clear results and configs. |
