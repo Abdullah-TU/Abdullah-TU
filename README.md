@@ -77,7 +77,7 @@
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="41" height="52">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="41" height="52">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="100" height="51">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="100" height="48">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="100" height="51">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="41" height="52">
 </p>
 
