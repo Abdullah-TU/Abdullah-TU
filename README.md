@@ -1,6 +1,6 @@
 # Md. Abdullah‑Al Mamun
 
-*Applied ML • Data Science • Geospatial & Environmental Analytics*
+***Applied ML** • **Data Science** • **Geospatial & Environmental Analytics***
 
 ## Interest
 **GenAI & LLMs**
