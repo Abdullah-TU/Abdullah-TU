@@ -32,13 +32,44 @@
 
 ## 📁 Projects & Resources
 
-| Topic | Summary |
-|---|---|
-| [Research Publications](https://github.com/Abdullah-TU/Research-Publications) | My papers and research output |
-| [Deep Learning Projects](https://github.com/Abdullah-TU/Deep-Learning-Projects) | Reproducible DL notebooks (CNNs, RNNs, FER-2013, vision/NLP), with clear results and configs. |
-| [Graham Defensive Investor Analyzer](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer) | Full-stack **LLM + rule-based** pipeline: parse annual reports, extract metrics, reconcile gaps, and evaluate all seven Graham defensive criteria with confidence scoring and audit-ready reasoning. |
-| [Python](https://github.com/Abdullah-TU/Python) | Utilities and notebooks for data wrangling, visualization, and small ML experiments. |
-| [Academic Projects in AI & ML](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML) | Coursework and academic case studies (classical ML, feature engineering, evaluation). |
-| [Machine-Learning-projects](https://github.com/Abdullah-TU/Machine-Learning-projects) | End-to-end ML examples with clean READMEs and reproducible pipelines. |
-| [Statistical-R-Language](https://github.com/Abdullah-TU/Statistical-R-Language) | R scripts for statistical analysis, visualization (tidyverse/ggplot2), and reporting. |
+<h2>📁 Projects & Resources</h2>
+
+<table style="width:100%; table-layout:auto;">
+  <thead>
+    <tr>
+      <th align="left" style="white-space:nowrap;">Topic</th>
+      <th align="left">Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Research-Publications">Research Publications</a></td>
+      <td>Curated list of peer-reviewed articles with DOIs and short highlights.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">Deep Learning Projects</a></td>
+      <td>Reproducible DL notebooks (CNNs, RNNs, FER-2013, vision/NLP) with configs and results.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">Graham Defensive Investor Analyzer</a></td>
+      <td>Full-stack <strong>LLM + rule-based</strong> pipeline: parse annual reports, extract metrics, reconcile gaps, and evaluate all seven Graham criteria with confidence scoring.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Python">Python</a></td>
+      <td>Utilities and notebooks for data wrangling, visualization, and small ML experiments.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML">Academic Projects in AI &amp; ML</a></td>
+      <td>Coursework and case studies (classical ML, feature engineering, evaluation).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Machine-Learning-projects">Machine-Learning-projects</a></td>
+      <td>End-to-end ML notebooks: classification (SVM, RF, NB), regression, clustering (K-Means), PCA, CNN (CIFAR-10), credit-risk &amp; diabetes projects; README run notes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R-Language</a></td>
+      <td>R scripts for statistical analysis and reporting (tidyverse/ggplot2).</td>
+    </tr>
+  </tbody>
+</table>
 
