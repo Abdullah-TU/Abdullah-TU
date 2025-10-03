@@ -30,7 +30,6 @@
 🔬 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
 </p>
 
-## 📁 Projects & Resources
 <h2>📁 Projects & Resources</h2>
 
 <table style="width:100%; table-layout:auto;">
