@@ -49,6 +49,10 @@
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">Deep Learning Projects</a></td>
       <td>Reproducible DL notebooks (CNNs, RNNs, FER-2013, vision/NLP) with configs and results.</td>
     </tr>
+        <tr>
+      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Machine-Learning-projects">Machine-Learning-projects</a></td>
+      <td>End-to-end ML notebooks: classification (SVM, RF, NB), regression, clustering (K-Means), PCA, CNN (CIFAR-10), credit-risk &amp; diabetes projects; README run notes.</td>
+    </tr>
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">Graham Defensive Investor Analyzer</a></td>
       <td>Full-stack <strong>LLM + rule-based</strong> pipeline: parse annual reports, extract metrics, reconcile gaps, and evaluate all seven Graham criteria with confidence scoring.</td>
@@ -57,14 +61,7 @@
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Python">Python</a></td>
       <td>Utilities and notebooks for data wrangling, visualization, and small ML experiments.</td>
     </tr>
-    <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML">Academic Projects in AI &amp; ML</a></td>
-      <td>Coursework and case studies (classical ML, feature engineering, evaluation).</td>
-    </tr>
-    <tr>
-      <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Machine-Learning-projects">Machine-Learning-projects</a></td>
-      <td>End-to-end ML notebooks: classification (SVM, RF, NB), regression, clustering (K-Means), PCA, CNN (CIFAR-10), credit-risk &amp; diabetes projects; README run notes.</td>
-    </tr>
+
     <tr>
       <td style="white-space:nowrap;"><a href="https://github.com/Abdullah-TU/Statistical-R-Language">Statistical-R-Language</a></td>
       <td>R scripts for statistical analysis and reporting (tidyverse/ggplot2).</td>
