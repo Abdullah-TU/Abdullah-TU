@@ -4,28 +4,12 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?logo=orcid\&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?logo=github\&logoColor=white)](https://github.com/Abdullah-TU)
-[![Email](https://img.shields.io/badge/Email-md.abdullah.al.mamun.tu%40gmail.com-EA4335?logo=gmail\&logoColor=white)](mailto:md.abdullah.al.mamun.tu@gmail.com)
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="28">
-  </a>
-  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" title="Google Scholar">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" height="28">
-  </a>
-  <a href="https://orcid.org/0009-0001-6749-9171" title="ORCID">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" height="28">
-  </a>
-  <a href="https://github.com/Abdullah-TU" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="28">
-  </a>
-  <a href="mailto:md.abdullah.al.mamun.tu@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="28">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin\&logoColor=white)]
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar\&logoColor=white)]
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?logo=orcid\&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?logo=github\&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-md.abdullah.al.mamun.tu%40gmail.com-EA4335?logo=gmail\&logoColor=white)]
+
 
 ---
 
