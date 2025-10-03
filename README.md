@@ -8,7 +8,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?logo=github&logoColor=white)](https://github.com/Abdullah-TU)
 
-## ACADEMIC &amp; PROFESSIONAL SKILLS
+## Academic & professional skills
 <p>
 👨‍💻 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
 🗄️ <strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
