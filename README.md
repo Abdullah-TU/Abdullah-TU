@@ -34,7 +34,7 @@
 
 | Topic | Summary |
 |---|---|
-| [Research Publications](https://github.com/Abdullah-TU/Research-Publications) | Curated list of peer-reviewed articles with DOIs and short highlights. |
+| [Research Publications](https://github.com/Abdullah-TU/Research-Publications) | My papers and research output |
 | [Deep Learning Projects](https://github.com/Abdullah-TU/Deep-Learning-Projects) | Reproducible DL notebooks (CNNs, RNNs, FER-2013, vision/NLP), with clear results and configs. |
 | [Graham Defensive Investor Analyzer](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer) | Full-stack **LLM + rule-based** pipeline: parse annual reports, extract metrics, reconcile gaps, and evaluate all seven Graham defensive criteria with confidence scoring and audit-ready reasoning. |
 | [Python](https://github.com/Abdullah-TU/Python) | Utilities and notebooks for data wrangling, visualization, and small ML experiments. |
