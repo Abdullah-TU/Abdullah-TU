@@ -54,7 +54,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="100" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-TU&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="100" />
 </p>
 
