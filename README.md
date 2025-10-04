@@ -70,7 +70,9 @@
   </tbody>
 </table>
 
-
+x
+## GitHub Stats Card
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=radical)
 
 ## Interest
 **GenAI & LLMs**
