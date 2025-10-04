@@ -76,7 +76,19 @@ x
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-TU&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdullah-TU&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-TU&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ## Interest
 **GenAI & LLMs**
 
