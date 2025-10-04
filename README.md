@@ -96,8 +96,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 🔭 **Research:** Publishing papers on ML applications in environmental science  
 🌱 **Learning:** Advanced deep learning architectures, LLM fine-tuning, spatial deep learning  
-👯 **Collaboration:** Open to research collaborations in environmental data science  
-💬 **Ask me about:** Machine learning, geospatial analytics, environmental modeling, data visualization  
+👯 **Collaboration:** Open to research collaborations at the intersection of data science and environmental/life sciences
 📫 **Reach me:** md.abdullah.al.mamun.tu@gmail.com
 
 ---
