@@ -20,8 +20,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 ---
 
----
-
 ## Academic & professional skills
 <p>
 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
