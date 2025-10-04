@@ -10,18 +10,18 @@
 
 ## Academic & professional skills
 <p>
-👨‍💻 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
-🗄️ <strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
-📊 <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
-🤖 <strong>ML:</strong> NumPy, Pandas, SciPy, scikit-learn; NLP &amp; CV<br>
-🧠 <strong>Deep Learning:</strong> PyTorch, TensorFlow; neural networks<br>
-🧪 <strong>GenAI &amp; LLMs:</strong> LLM integration, data extraction, GenAI apps, prompt engineering<br>
-🛠️ <strong>Dev &amp; VCS:</strong> Android (Java), Git, GitHub<br>
-☁️ <strong>Cloud:</strong> AWS, Azure<br>
-✅ <strong>Testing:</strong> Unit &amp; integration<br>
-🗺️ <strong>Spatial:</strong> QGIS, ArcGIS; geostatistics &amp; spatial modeling<br>
-🧪 <strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy<br>
-🔬 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
+<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
+<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
+<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+<strong>ML:</strong> NumPy, Pandas, SciPy, scikit-learn; NLP &amp; CV<br>
+<strong>Deep Learning:</strong> PyTorch, TensorFlow; neural networks<br>
+<strong>GenAI &amp; LLMs:</strong> LLM integration, data extraction, GenAI apps, prompt engineering<br>
+<strong>Dev &amp; VCS:</strong> Android (Java), Git, GitHub<br>
+<strong>Cloud:</strong> AWS, Azure<br>
+<strong>Testing:</strong> Unit &amp; integration<br>
+<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics &amp; spatial modeling<br>
+<strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy<br>
+<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
 </p>
 
 <h2> Projects & Resources</h2>
