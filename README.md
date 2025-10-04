@@ -17,6 +17,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdullah-TU)
 
+
 ## Academic & professional skills
 <p>
 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
@@ -31,6 +32,14 @@ I'm a data scientist and machine learning researcher specializing in environment
 <strong>Spatial:</strong> QGIS, ArcGIS; geostatistics &amp; spatial modeling<br>
 <strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy<br>
 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-TU&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="100" />
 </p>
 
 
@@ -78,13 +87,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="100" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-TU&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="100" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="100" />
-</p>
 
 
 
