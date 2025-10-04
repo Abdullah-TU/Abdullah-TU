@@ -20,15 +20,33 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 ---
 
-## 💻 Tech Stack
+---
 
-### Languages & Frameworks
+## Academic & professional skills
+<p>
+<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
+<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
+<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+<strong>ML:</strong> NumPy, Pandas, SciPy, scikit-learn; NLP &amp; CV<br>
+<strong>Deep Learning:</strong> PyTorch, TensorFlow; neural networks<br>
+<strong>GenAI &amp; LLMs:</strong> LLM integration, data extraction, GenAI apps, prompt engineering<br>
+<strong>Dev &amp; VCS:</strong> Android (Java), Git, GitHub<br>
+<strong>Cloud:</strong> AWS, Azure<br>
+<strong>Testing:</strong> Unit &amp; integration<br>
+<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics &amp; spatial modeling<br>
+<strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy<br>
+<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
+</p>
+---
+
+
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
