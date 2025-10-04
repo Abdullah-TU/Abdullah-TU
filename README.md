@@ -73,7 +73,7 @@
 x
 ## GitHub Stats Card
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=radical)
 ## Interest
 **GenAI & LLMs**
 
