@@ -106,16 +106,13 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 When I'm not analyzing data or training models, I enjoy painting! Here are some of my artworks:
 
-<p align="center">
-  <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="130" height="150">
-  <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="130" height="150">
-  <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="130" height="150">
-  <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="200" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="200" height="150">
-  <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="130" height="150">
+<p float="right">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="150" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="150" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="82" height="100">
 </p>
 
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
