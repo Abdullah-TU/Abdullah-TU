@@ -9,7 +9,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 - 🔬 Specializing in **machine learning for environmental science** and **geospatial analytics**
 - 🌍 Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
 
----
 
 ## 🔗 Connect with Me
 
@@ -17,8 +16,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdullah-TU)
-
----
 
 ## Academic & professional skills
 <p>
@@ -35,7 +32,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 <strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy<br>
 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
 </p>
----
 
 
 ## 💻 Tech Stack
@@ -54,7 +50,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -65,8 +61,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 </p>
 
 
-
----
 
 ## 🚀 Featured Projects
 
@@ -94,7 +88,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 ### 📚 Learning Resources
 [**Python Utilities & Notebooks**](https://github.com/Abdullah-TU/Python) | [**Statistical R Scripts**](https://github.com/Abdullah-TU/Statistical-R-Language) | [**Academic AI/ML Projects**](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML)
 
----
+
 
 ## 📈 Current Focus
 
@@ -103,7 +97,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 👯 **Collaboration:** Open to research collaborations at the intersection of data science and environmental/life sciences
 📫 **Reach me:** md.abdullah.al.mamun.tu@gmail.com
 
----
 
 ## 🎨 Beyond Code
 
@@ -120,12 +113,12 @@ When I'm not analyzing data or training models, I enjoy painting! Here are some 
 
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Abdullah-TU">Abdullah-TU</a> - Let's connect and collaborate!</i>
+  <i> Let's connect and collaborate!</i>
 </p>
