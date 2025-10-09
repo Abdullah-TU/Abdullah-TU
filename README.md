@@ -91,7 +91,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-TU&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="165" width="100"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-TU&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="165" width="60%"/>
 </p>
 
 
