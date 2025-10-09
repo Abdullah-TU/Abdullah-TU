@@ -91,6 +91,16 @@ I'm a data scientist and machine learning researcher specializing in environment
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-TU&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
 
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-TU&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ## Current Focus
 
 **Research:** Publishing papers on ML applications in environmental science  
