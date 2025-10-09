@@ -10,7 +10,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 -  Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
 
 
-## 🔗 Connect with Me
+## 🔗 Professional Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
