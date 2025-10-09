@@ -4,10 +4,10 @@
 
 I'm a data scientist and machine learning researcher specializing in environmental analytics and geospatial modeling. With a Master's in Computing Sciences (Data Science) from Tampere University, I combine advanced ML techniques with domain expertise to solve complex environmental challenges. Currently focused on publishing research and preparing for doctoral studies.
 
-### 🎯 Research Highlights
-- 📊 **4 peer-reviewed publications** in high-impact journals (Marine Pollution Bulletin, Science of The Total Environment)
-- 🔬 Specializing in **machine learning for environmental science** and **geospatial analytics**
-- 🌍 Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
+### Research Highlights
+- **4 peer-reviewed publications** in high-impact journals (Marine Pollution Bulletin, Science of The Total Environment)
+-  Specializing in **machine learning for environmental science** and **geospatial analytics**
+-  Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
 
 
 ## 🔗 Connect with Me
@@ -78,7 +78,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="100" />
@@ -89,7 +89,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 
 
-## 📈 Current Focus
+## Current Focus
 
 **Research:** Publishing papers on ML applications in environmental science  
 **Learning:** Advanced deep learning architectures, LLM fine-tuning, spatial deep learning  
@@ -111,8 +111,6 @@ When I'm not analyzing data or training models, I enjoy painting! Here are some 
 </p>
 
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
