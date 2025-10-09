@@ -92,6 +92,8 @@ I'm a data scientist and machine learning researcher specializing in environment
 </p>
 
 
+## GitHub Statistics
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
