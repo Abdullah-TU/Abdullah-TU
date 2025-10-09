@@ -34,15 +34,15 @@ I'm a data scientist and machine learning researcher specializing in environment
 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔬 Research & Publications
+###  Research & Publications
 [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
 - 4 peer-reviewed publications in environmental ML and geospatial analytics
 - Focus: Groundwater quality prediction, heavy metal contamination modeling, coastal ecosystem analysis
 - Tools: Python, R, Machine Learning, Geostatistics
 
-### 🤖 Machine Learning Projects
+### Machine Learning Projects
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
 - Neural network implementations using PyTorch and TensorFlow
 - Applications in computer vision, NLP, and time-series analysis
@@ -51,16 +51,16 @@ I'm a data scientist and machine learning researcher specializing in environment
 - Comprehensive ML algorithms: classification, regression, clustering
 - Feature engineering, model evaluation, and optimization techniques
 
-### 💼 Applied AI Applications
+### Applied AI Applications
 [**Graham Defensive Investor Analyzer**](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
 - LLM + FastAPI application for automated annual report analysis
 - Implements Benjamin Graham's defensive investment criteria
 - Tech Stack: LangChain, FastAPI, OpenAI API
 
-### 📚 Learning Resources
+### Learning Resources
 [**Python Utilities & Notebooks**](https://github.com/Abdullah-TU/Python) | [**Statistical R Scripts**](https://github.com/Abdullah-TU/Statistical-R-Language) | [**Academic AI/ML Projects**](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML)
 
-## 💻 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -91,10 +91,10 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 ## 📈 Current Focus
 
-🔭 **Research:** Publishing papers on ML applications in environmental science  
-🌱 **Learning:** Advanced deep learning architectures, LLM fine-tuning, spatial deep learning  
-👯 **Collaboration:** Open to research collaborations at the intersection of data science and environmental/life sciences
-📫 **Reach me:** md.abdullah.al.mamun.tu@gmail.com
+**Research:** Publishing papers on ML applications in environmental science  
+**Learning:** Advanced deep learning architectures, LLM fine-tuning, spatial deep learning  
+**Collaboration:** Open to research collaborations at the intersection of data science and environmental/life sciences
+**Reach me:** md.abdullah.al.mamun.tu@gmail.com
 
 
 ## 🎨 Beyond Code
