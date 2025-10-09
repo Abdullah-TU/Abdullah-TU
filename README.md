@@ -77,9 +77,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-
-## GitHub Statistics
-
 ## GitHub Statistics
 
 <p align="left">
