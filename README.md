@@ -1,6 +1,6 @@
 # Hi, I'm Md. Abdullah-Al Mamun 👋
 
-**Applied ML** • **Data Science** • **Geospatial & Environmental Analytics**
+**Data Science** **Artificial Intelligence** **Generative AI & NLP** **Geospatial & Environmental Analytics**
 
 I'm a data scientist and machine learning researcher specializing in environmental analytics and geospatial modeling. With a Master's in Computing Sciences (Data Science) from Tampere University, I combine advanced ML techniques with domain expertise to solve complex environmental challenges. Currently focused on publishing research and preparing for doctoral studies.
 
