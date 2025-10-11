@@ -82,7 +82,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-
 ## Current Focus
 
 **Research:** Publishing papers on ML applications in environmental science  
