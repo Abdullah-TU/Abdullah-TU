@@ -15,7 +15,6 @@ I'm a data scientist and machine learning researcher specializing in environment
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdullah-TU)
 
-
 ## Academic & professional skills
 <p>
 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
