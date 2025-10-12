@@ -1,15 +1,14 @@
-Hi, I'm Md. Abdullah-Al Mamun 👋
-Data Science | Artificial Intelligence | Generative AI & NLP | Geospatial & Environmental Analytics
+# Hi, I'm Md. Abdullah-Al Mamun 👋
+**Data Science** | **Artificial Intelligence** | **Generative AI & NLP** | **Geospatial & Environmental Analytics**
 
-I am a Machine Learning Researcher with a Master's degree in Data Science from Tampere University. My work focuses on the intersection of geospatial analytics and environmental science, where I apply advanced AI to model complex systems.
+I am a **Machine Learning Researcher** with a Master's degree in Data Science from Tampere University. My work focuses on the intersection of **geospatial analytics and environmental science**, where I apply advanced AI to model complex systems.
 
-As a published researcher (4 peer-reviewed articles), I have developed predictive models for:
-
-💧 Groundwater Quality & Heavy Metal Contamination
-
-🌊 Coastal Ecosystem Health & Dynamics
+As a published researcher (**4 peer-reviewed articles**), I have developed predictive models for:
+-   💧 Groundwater Quality & Heavy Metal Contamination
+-   🌊 Coastal Ecosystem Health & Dynamics
 
 I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
+
 ## Connect & Explore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/)
