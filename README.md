@@ -7,7 +7,6 @@ As a published researcher (**4 peer-reviewed articles**), I have developed predi
     <p>
 <strong>💧</strong>  Groundwater Quality & Heavy Metal Contamination MATLAB<br>
 <strong>🌊</strong>  Coastal Ecosystem Health & Dynamics<br>
-<strong></strong><br>
 </p>
 
 I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
