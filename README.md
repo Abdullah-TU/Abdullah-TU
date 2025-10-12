@@ -4,8 +4,6 @@
 I am a **Machine Learning Researcher** with a Master's degree in Data Science from Tampere University. My work focuses on the intersection of **geospatial analytics and environmental science**, where I apply advanced AI to model complex systems.
 
 As a published researcher (**4 peer-reviewed articles**), I have developed predictive models for:
-   - 💧 Groundwater Quality & Heavy Metal Contamination
-   - 🌊 Coastal Ecosystem Health & Dynamics
     <p>
 <strong>💧</strong>  Groundwater Quality & Heavy Metal Contamination MATLAB<br>
 <strong>🌊</strong>  Coastal Ecosystem Health & Dynamics<br>
