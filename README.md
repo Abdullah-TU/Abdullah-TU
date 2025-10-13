@@ -4,10 +4,12 @@
 I'm a data scientist and machine learning researcher specializing in environmental analytics and geospatial modeling. With a Master's in Computing Sciences (Data Science) from Tampere University, I combine advanced ML techniques with domain expertise to solve complex environmental challenges. Currently focused on publishing research and preparing for doctoral studies.
 
 ### Research Highlights
-    <p>
-<strong>💧</strong>  Groundwater Quality & Heavy Metal Contamination<br>
-<strong>🌊</strong>  Coastal Ecosystem Health & Dynamics<br>
-</p>
+
+- **4 peer-reviewed publications** in high-impact journals (Marine Pollution Bulletin, Science of The Total Environment)
+
+-  Specializing in **machine learning for environmental science** and **geospatial analytics**
+
+-  Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
 
 I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
 
