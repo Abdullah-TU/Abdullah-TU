@@ -7,7 +7,7 @@ I'm a data scientist and machine learning researcher specializing in environment
 
 - **4 peer-reviewed publications** in high-impact journals (Marine Pollution Bulletin, Science of The Total Environment)
 - Specializing in **machine learning for environmental science** and **geospatial analytics**
-- Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
+- Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
   
 I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
 
