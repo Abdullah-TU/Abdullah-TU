@@ -4,12 +4,11 @@
 I am a Data Scientist/Machine learning Engineer with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities.
 
 ### Research Highlights
-
-- **4 peer-reviewed publications** in high-impact journals (Marine Pollution Bulletin, Science of The Total Environment)
-- Specializing in **machine learning for environmental science** and **geospatial analytics**
-- Research areas: groundwater quality prediction, heavy metal contamination, coastal ecosystem modeling
-  
 I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
+
+### Recent Publications
+
+
 
 ## Connect & Explore
 
