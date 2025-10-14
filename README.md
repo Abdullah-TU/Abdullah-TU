@@ -7,6 +7,11 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
 I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
 
 ### Recent Publications
+1.	Islam, A. R. M. T., Varol, M., Mallick, J., Mamun, M. A., Mia, M. Y., Siddique, M. A. B., Islam, M. S., & Aktar, M. N. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. Marine Pollution Bulletin, 222(Part 1), 118701.
+https://doi.org/10.1016/j.marpolbul.2025.118701.
+
+
+
 
 
 
