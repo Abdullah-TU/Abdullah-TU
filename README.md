@@ -1,11 +1,13 @@
 # Hi, I'm Md. Abdullah-Al Mamun 👋
 **Data Science** | **Artificial Intelligence** | **Generative AI & NLP** | **Geospatial & Environmental Analytics**
 
-I am a Data Scientist/Machine learning Engineer with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities.
+I am a Data Scientist/Machine learning Engineer with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment.
 
-### Research Highlights & Recent Publications
-I am currently expanding my research portfolio in preparation for doctoral studies and am open to academic collaborations.
+### Research Highlights 
+I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations.
+#### Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics.
 
+# Recent Publications
 1.	Islam, A. R. M. T., Varol, M., Mallick, J., Mamun, M. A., Mia, M. Y., Siddique, M. A. B., Islam, M. S., & Aktar, M. N. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. Marine Pollution Bulletin, 222(Part 1), 118701.
 https://doi.org/10.1016/j.marpolbul.2025.118701.
 
