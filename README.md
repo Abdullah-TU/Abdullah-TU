@@ -44,8 +44,6 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 
 ###  Research & Publications
 [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
-- 4 peer-reviewed publications in environmental ML and geospatial analytics
-- Focus: Groundwater quality prediction, heavy metal contamination modeling, coastal ecosystem analysis
 
 ### Machine Learning Projects
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
