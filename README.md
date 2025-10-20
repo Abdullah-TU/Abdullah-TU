@@ -44,6 +44,7 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 
 ###  Research & Publications
 [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
+- 4 peer-reviewed publications in environmental ML and geospatial analytics
 
 
 ### Machine Learning Projects
