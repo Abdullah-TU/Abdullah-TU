@@ -88,7 +88,7 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-**Learning:** Advanced deep learning architectures, LLM fine-tuning, spatial deep learning  
+
 **Collaboration:** Open to research collaborations at the intersection of data science and environmental/life sciences
 **Reach me:** md.abdullah.al.mamun.tu@gmail.com
 
