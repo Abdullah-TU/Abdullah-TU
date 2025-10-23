@@ -108,6 +108,6 @@ When I'm not analyzing data or training models, I enjoy painting! Here are some 
 
 <p align="center">
   <i> Let's connect and collaborate!</i>
-  
-**Reach me:** md.abdullah.al.mamun.tu@gmail.com
+  <i> md.abdullah.al.mamun.tu@gmail.com</i>
+
 </p>
