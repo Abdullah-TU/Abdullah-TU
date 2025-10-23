@@ -87,8 +87,6 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
-
 ## 🎨 Beyond Code
 
 When I'm not analyzing data or training models, I enjoy painting! Here are some of my artworks:
@@ -110,4 +108,6 @@ When I'm not analyzing data or training models, I enjoy painting! Here are some 
 
 <p align="center">
   <i> Let's connect and collaborate!</i>
+  
+**Reach me:** md.abdullah.al.mamun.tu@gmail.com
 </p>
