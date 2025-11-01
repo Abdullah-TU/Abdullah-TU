@@ -104,7 +104,6 @@ When I'm not analyzing data or training models, I enjoy painting! Here are some 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-
 <p align="center">
   <i> Let's connect and collaborate!</i>
 </p>
