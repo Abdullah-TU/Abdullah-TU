@@ -34,6 +34,25 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+
+<p>
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
+  </a>&nbsp;
+  <a href="https://orcid.org/0009-0001-6749-9171">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
+  </a>&nbsp;
+  <a href="https://sciprofiles.com/profile/MdAbdullahAlMamun">
+    <img alt="SciProfiles" src="https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=mdpi&logoColor=white">
+  </a>&nbsp;
+  <a href="https://github.com/Abdullah-TU">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+</p>
 ### Research Highlights 
 I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations.
 #### Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics.
