@@ -7,7 +7,8 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6749-9171)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdullah-TU)
-[![SciProfiles](https://img.shields.io/badge/SciProfiles-Profile-1E90FF?style=flat)](https://sciprofiles.com/profile/MdAbdullahAlMamun)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-Profile-1E90FF?style=flat&logo=data:image/svg+xml;base64,PASTE_BASE64_SVG_HERE)](https://sciprofiles.com/profile/MdAbdullahAlMamun)
+
 
 ### Research Highlights 
 I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations.
