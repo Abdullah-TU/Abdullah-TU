@@ -3,7 +3,6 @@
 
 I am a Data Scientist/Machine learning Engineer with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment.
 
-<!-- Academic-first order -->
 <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1">
   <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
 </a>
