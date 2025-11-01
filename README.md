@@ -16,6 +16,14 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
+<p>
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0001-6749-9171">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
+  </a>
+  <
 
 ### Research Highlights 
 I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations.
