@@ -11,13 +11,13 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
   </a>&nbsp;
   <a href="https://sciprofiles.com/profile/MdAbdullahAlMamun">
-    <img alt="SciProfiles" src="[https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=mdpi&logoColor=white](https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/LinkedIn_logo_initials.png)">
+    <img alt="SciProfiles" src="https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjE1IiBmaWxsPSIjMDA4M0JFIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNjAiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI0ZGRkZGRiI+U2NpPC90ZXh0Pjwvc3ZnPg==">
   </a>&nbsp;
   <a href="https://github.com/Abdullah-TU">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/">
-    <img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white](https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/SciProfiles_Official.png)">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjE1IiBmaWxsPSIjMEE2NkMyIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNzAiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIj5BPC90ZXh0Pjwvc3ZnPg==">
   </a>
 </p>
 
