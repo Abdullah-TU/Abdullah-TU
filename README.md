@@ -19,6 +19,8 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
 <p>
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" style="margin-right: 6px; text-decoration-color: white !important;">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white"> 
+  <a href="https://orcid.org/0009-0001-6749-9171" style="margin-right: 6px; text-decoration-color: white !important;">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
 </p>
 
     <p>
