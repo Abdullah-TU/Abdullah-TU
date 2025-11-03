@@ -3,36 +3,36 @@
 
 I am a Data Scientist/Machine learning Engineer with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment.
 
-.badge-links { display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
+<style>
+  .badge-links { display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
 
-.badge-links a,
-.badge-links a:link,
-.badge-links a:visited,
-.badge-links a:hover,
-.badge-links a:active{
-  text-decoration:none !important;
-  border:0 !important;
-  box-shadow:none !important;
-  background-image:none !important;
-  line-height:0;
-  display:inline-block;
-}
+  .badge-links a{
+    text-decoration:none !important;
+    border-bottom:0 !important;
+    display:inline-block;   /* no inline baseline */
+    line-height:0;          /* removes tiny underline fragments */
+  }
 
-.badge-links a::before,
-.badge-links a::after{
-  content:none !important;
-  display:none !important;
-  background:none !important;
-  border:0 !important;
-  box-shadow:none !important;
-}
+  .badge-links img{ display:block; }
+</style>
 
-.badge-links img{ display:block; vertical-align:middle; }
-
-<a href="…" style="text-decoration:none;border:0;box-shadow:none;background-image:none;display:inline-block;line-height:0;margin-right:6px">
-  <img src="…" alt="…" style="display:block;">
-</a>
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1)
+<p class="badge-links">
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0001-6749-9171">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://sciprofiles.com/profile/MdAbdullahAlMamun">
+    <img alt="SciProfiles" src="https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI0ZGRkZGRiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjYwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwMDAwMDAiPlNjaTwvdGV4dD48L3N2Zz4=">
+  </a>
+  <a href="https://github.com/Abdullah-TU">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 
 
