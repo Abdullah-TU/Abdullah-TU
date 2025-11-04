@@ -75,6 +75,7 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
 - Neural network implementations using PyTorch and TensorFlow
 - Applications in computer vision, NLP, and time-series analysis
+  
 [**Classical ML Projects**](https://github.com/Abdullah-TU/Machine-Learning-projects)
 - Comprehensive ML algorithms: classification, regression, clustering
 - Feature engineering, model evaluation, and optimization techniques
