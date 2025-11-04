@@ -83,7 +83,6 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 - LLM + FastAPI application for automated annual report analysis
 - Implements Benjamin Graham's defensive investment criteria
 - Tech Stack: LangChain, FastAPI, OpenAI API
-
 ### Learning Resources
 [**Python Utilities & Notebooks**](https://github.com/Abdullah-TU/Python) | [**Statistical R Scripts**](https://github.com/Abdullah-TU/Statistical-R-Language) | [**Academic AI/ML Projects**](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML)
 
