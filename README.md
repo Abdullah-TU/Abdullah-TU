@@ -69,7 +69,8 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 
 ##  Featured Projects
 
-###  Research & Publications: [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
+###  Research & Publications: 
+[**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
 
 ### Machine Learning Projects
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
