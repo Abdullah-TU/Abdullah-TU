@@ -87,16 +87,6 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 ### Learning Resources
 [**Python Utilities & Notebooks**](https://github.com/Abdullah-TU/Python) | [**Statistical R Scripts**](https://github.com/Abdullah-TU/Statistical-R-Language) | [**Academic AI/ML Projects**](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML)
 
-## GitHub Statistics
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-TU&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
