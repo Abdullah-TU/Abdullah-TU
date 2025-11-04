@@ -1,5 +1,5 @@
 # Hi, I'm Md. Abdullah-Al Mamun 👋
-**Data Science**  | **Machine Learning** | **Deep Learning** | **Artificial Intelligence** |  **Generative AI & NLP** | 
+**Machine Learning** | **Deep Learning** | **Artificial Intelligence** |  **Generative AI & NLP** | **Data Science**  |
 
 I am a Data Scientist/Machine learning Engineer with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment.
 
