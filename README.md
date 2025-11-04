@@ -78,7 +78,6 @@ https://doi.org/10.1016/j.scitotenv.2024.176024.
 [**Classical ML Projects**](https://github.com/Abdullah-TU/Machine-Learning-projects)
 - Comprehensive ML algorithms: classification, regression, clustering
 - Feature engineering, model evaluation, and optimization techniques
-
 ### Applied AI Applications
 [**Graham Defensive Investor Analyzer**](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
 - LLM + FastAPI application for automated annual report analysis
