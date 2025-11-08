@@ -32,7 +32,6 @@ I am a Data Scientist/Machine learning Engineer with a solid motive to create, i
   </a>
 </p>
 
-
 ### Research Highlights 
 I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝.
 
