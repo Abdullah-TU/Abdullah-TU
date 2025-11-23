@@ -38,7 +38,7 @@ I am actively expanding my research portfolio in preparation for doctoral studie
 #### Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics.
 
 ## Recent Publications
-1.  Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin.* **In press.** (DOI forthcoming)
+1. Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. Marine Pollution Bulletin, 223, 118966. https://doi.org/10.1016/j.marpolbul.2025.118966
 
 2.	Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.**, Mia, M. Y., Siddique, M. A. B., Islam, M. S., & Aktar, M. N. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. Marine Pollution Bulletin, 222(Part 1), 118701.
 https://doi.org/10.1016/j.marpolbul.2025.118701.
