@@ -42,7 +42,7 @@ I am actively expanding my research portfolio in preparation for doctoral studie
    
 2. Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. Marine Pollution Bulletin, 223, 118966. https://doi.org/10.1016/j.marpolbul.2025.118966
 
-3.	Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.**, Mia, M. Y., Siddique, M. A. B., Islam, M. S., & Aktar, M. N. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. Marine Pollution Bulletin, 222(Part 1), 118701.
+3.	Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.**, Mia, M. Y., Siddique, M. A. B., Islam, M. S., & Aktar, M. N. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. Marine Pollution Bulletin, 222(Part 1), 118701
 https://doi.org/10.1016/j.marpolbul.2025.118701.
 
 4.	Islam, A. R. M. T., **Mamun, M. A.**, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. Journal of Contaminant Hydrology, 269, 104480. https://doi.org/10.1016/j.jconhyd.2024.104480.
