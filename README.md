@@ -38,7 +38,7 @@ I am actively expanding my research portfolio in preparation for doctoral studie
 #### Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics.
 
 ## Recent Publications
-1. **Mamun, M. A.**, Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., & Islam, A. R. M. T. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. Science of the Total Environment, 1011, 181190. https://doi.org/10.1016/j.scitotenv.2025.181190.
+1. **Mamun, M. A.**, Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., & Islam, A. R. M. T. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. Science of the Total Environment, 1011, 181190. https://doi.org/10.1016/j.scitotenv.2025.181190
    
 2. Zesha, J. H., **Mamun, M. A.**, Islam, A. R. M. T., Habib, M. A., & Khan, R. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. Marine Pollution Bulletin, 223, 118966. https://doi.org/10.1016/j.marpolbul.2025.118966
 
