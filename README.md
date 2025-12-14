@@ -44,7 +44,7 @@ I am actively expanding my research portfolio in preparation for doctoral studie
 
 3.	Islam, A. R. M. T., Varol, M., Mallick, J., **Mamun, M. A.**, Mia, M. Y., Siddique, M. A. B., Islam, M. S., & Aktar, M. N. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. Marine Pollution Bulletin, 222(Part 1), 118701. https://doi.org/10.1016/j.marpolbul.2025.118701
 
-4.	Islam, A. R. M. T., **Mamun, M. A.**, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. Journal of Contaminant Hydrology, 269, 104480. https://doi.org/10.1016/j.jconhyd.2024.104480.
+4.	Islam, A. R. M. T., **Mamun, M. A.**, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., & Senapathi, V. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. Journal of Contaminant Hydrology, 269, 104480. https://doi.org/10.1016/j.jconhyd.2024.104480
 
 5.	**Mamun, M. A.** , Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M.  M., Idris, M. A., & Senapathi, V. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers:  A geostatistical and data-driven approach. Science of The Total Environment, 953, 176024.
 https://doi.org/10.1016/j.scitotenv.2024.176024.
