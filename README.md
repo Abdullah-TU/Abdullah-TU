@@ -1,8 +1,3 @@
-To create a high-impact GitHub portfolio that reflects both your academic research depth and your technical engineering skills, I recommend a structure that balances **industry-ready applications** with your **extensive publication record**.
-
-Based on your CVs, here is a revised, professional GitHub README.
-
----
 
 # 👋 Hi, I'm Md. Abdullah-Al Mamun
 
