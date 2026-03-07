@@ -87,7 +87,7 @@ I am actively expanding my research portfolio in preparation for doctoral studie
 
 ## 🎨 Beyond Code
 
-When I'm not analyzing data or training models, I enjoy painting! Here are some of my artworks:
+I believe data science is an art form. When I'm not coding, I'm a painter.  Here are some of my artworks:
 
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100"> 
@@ -100,6 +100,10 @@ When I'm not analyzing data or training models, I enjoy painting! Here are some 
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
 
 <p align="center">
+
+  View My Painting Gallery →
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="120"> <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="120"> <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="220">
+
   <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 <p align="center">
