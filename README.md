@@ -1,7 +1,7 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science** |
 
-I am a Data Scientist with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. [cite_start]My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment. [cite: 5] [cite_start]With over 5 years of professional experience, I have honed my skills across programming, databases, Android development, version control, cloud computing, test automation, and laboratory and industrial techniques. [cite: 6, 80]
+I am a Data Scientist with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment. With over 5 years of professional experience, I have honed my skills across programming, databases, Android development, version control, cloud computing, test automation, and laboratory and industrial techniques.
 
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1"
@@ -33,27 +33,27 @@ I am a Data Scientist with a solid motive to create, innovate, and research in t
 </p>
 
 ### Research Highlights 
-[cite_start]I hold an M.Sc. in Data Science from Tampere University (completed May 2024). [cite: 110, 133] [cite_start]I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. [cite: 160, 163]
+I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝.
 
-#### [cite_start]Current Focus Areas: Explainable AI, Physics-Informed ML, and Environmental Analytics. [cite: 20, 167]
+#### Current Focus Areas: Explainable AI, Physics-Informed ML, and Environmental Analytics.
 
 ## Recent Publications
 
-1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. [cite_start]*Environmental Geochemistry and Health*. [cite: 166, 167]
-2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. [cite_start]*Science of the Total Environment, 1011*, 181190. [cite: 65, 171]
-3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. [cite_start]*Marine Pollution Bulletin, 223*, 118966. [cite: 68, 174]
-4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. [cite_start]*Marine Pollution Bulletin, 222*(Part 1), 118701. [cite: 71, 177]
-5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. [cite_start]*Journal of Contaminant Hydrology, 269*, 104480. [cite: 75, 180]
+1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. *Environmental Geochemistry and Health*.
+2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. *Science of the Total Environment, 1011*, 181190.
+3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin, 223*, 118966.
+4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin, 222*(Part 1), 118701.
+5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. *Journal of Contaminant Hydrology, 269*, 104480.
 
 ## Academic & professional skills
 <p>
-[cite_start]<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB [cite: 10, 140]<br>
-[cite_start]<strong>Databases:</strong> SQL (PostgreSQL, MySQL) [cite: 11]<br>
-[cite_start]<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI [cite: 13]<br>
-[cite_start]<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis [cite: 14]<br>
-[cite_start]<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications [cite: 15]<br>
-[cite_start]<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling [cite: 21]<br>
-<strong>Research Domains:</strong> Environmental science; [cite_start]AI/ML; statistical modeling [cite: 20]
+<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
+<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
+<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
+<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications<br>
+<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling<br>
+<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
 </p>
 
 ## Featured Projects
@@ -61,17 +61,17 @@ I am a Data Scientist with a solid motive to create, innovate, and research in t
 [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
 ### Machine Learning Projects
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
-- [cite_start]Neural network implementations using PyTorch and TensorFlow. [cite: 14, 35]
-- [cite_start]Applications in computer vision, NLP, and facial emotion recognition. [cite: 7, 33, 37]
+- Neural network implementations using PyTorch and TensorFlow.
+- Applications in computer vision, NLP, and facial emotion recognition.
   
 [**Classical ML Projects**](https://github.com/Abdullah-TU/Machine-Learning-projects)
-- [cite_start]15+ projects covering classification, regression, and clustering. [cite: 38]
-- [cite_start]Feature engineering, model evaluation, and optimization techniques. [cite: 34, 37]
+- 15+ projects covering classification, regression, and clustering.
+- Feature engineering, model evaluation, and optimization techniques.
 ### Applied AI Applications
 [**Graham Defensive Investor Analyzer**](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
-- [cite_start]LLM + FastAPI application for automated annual report analysis. [cite: 27, 28]
-- [cite_start]Implements Benjamin Graham's defensive investment criteria. [cite: 25, 27]
-- [cite_start]Tech Stack: LangChain, FastAPI, OpenAI API. [cite: 28]
+- LLM + FastAPI application for automated annual report analysis.
+- Implements Benjamin Graham's defensive investment criteria.
+- Tech Stack: LangChain, FastAPI, OpenAI API.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,7 +82,7 @@ I am a Data Scientist with a solid motive to create, innovate, and research in t
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🎨 Beyond Code
-[cite_start]When I'm not analyzing data or training models, I enjoy painting! [cite: 8]
+When I'm not analyzing data or training models, I enjoy painting!
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100"> 
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="82" height="100">
@@ -97,5 +97,5 @@ I am a Data Scientist with a solid motive to create, innovate, and research in t
 </p>
 <p align="center">
   <i> Let's connect and collaborate!</i><br>
-  [cite_start]<i> md.abdullah.al.mamun.tu@gmail.com</i> [cite: 4, 128]
+  <i> md.abdullah.al.mamun.tu@gmail.com</i>
 </p>
