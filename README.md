@@ -1,7 +1,7 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science** |
 
-[cite_start]I am a Data Scientist with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities[cite: 5, 163]. [cite_start]My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment[cite: 5].
+I am a Data Scientist with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. [cite_start]My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment. [cite: 5] [cite_start]With over 5 years of professional experience, I have honed my skills across programming, databases, Android development, version control, cloud computing, test automation, and laboratory and industrial techniques. [cite: 6, 80]
 
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1"
@@ -33,33 +33,26 @@
 </p>
 
 ### Research Highlights 
-[cite_start]I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝[cite: 160, 163].
+[cite_start]I hold an M.Sc. in Data Science from Tampere University (completed May 2024). [cite: 110, 133] [cite_start]I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. [cite: 160, 163]
 
-#### [cite_start]Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics[cite: 20, 21].
+#### [cite_start]Current Focus Areas: Explainable AI, Physics-Informed ML, and Environmental Analytics. [cite: 20, 167]
 
 ## Recent Publications
 
-1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. [cite_start]*Environmental Geochemistry and Health*[cite: 166, 167, 168].
-2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. [cite_start]*Science of the Total Environment, 1011*, 181190[cite: 65, 66, 67].
-3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. [cite_start]*Marine Pollution Bulletin, 223*, 118966[cite: 68, 69, 70].
-4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. [cite_start]*Marine Pollution Bulletin, 222*(Part 1), 118701[cite: 71, 72, 73].
-5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. [cite_start]*Journal of Contaminant Hydrology, 269*, 104480[cite: 75, 76, 77].
-6. **Mamun, M. A.**, et al. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. [cite_start]*Science of The Total Environment, 953*, 176024[cite: 78, 79].
-
+1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. [cite_start]*Environmental Geochemistry and Health*. [cite: 166, 167]
+2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. [cite_start]*Science of the Total Environment, 1011*, 181190. [cite: 65, 171]
+3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. [cite_start]*Marine Pollution Bulletin, 223*, 118966. [cite: 68, 174]
+4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. [cite_start]*Marine Pollution Bulletin, 222*(Part 1), 118701. [cite: 71, 177]
+5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. [cite_start]*Journal of Contaminant Hydrology, 269*, 104480. [cite: 75, 180]
 
 ## Academic & professional skills
 <p>
-[cite_start]<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB [cite: 10]<br>
+[cite_start]<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB [cite: 10, 140]<br>
 [cite_start]<strong>Databases:</strong> SQL (PostgreSQL, MySQL) [cite: 11]<br>
 [cite_start]<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI [cite: 13]<br>
-<strong>ML:</strong> NumPy, Pandas, SciPy, scikit-learn; [cite_start]NLP & CV [cite: 14]<br>
-[cite_start]<strong>Deep Learning:</strong> PyTorch, TensorFlow; neural networks [cite: 14]<br>
-[cite_start]<strong>GenAI & LLMs:</strong> LLM integration, data extraction, GenAI apps, prompt engineering [cite: 15]<br>
-[cite_start]<strong>Dev & VCS:</strong> Android (Java), Git, GitHub [cite: 16]<br>
-[cite_start]<strong>Cloud:</strong> AWS, Azure [cite: 17]<br>
-[cite_start]<strong>Testing:</strong> Unit & integration [cite: 18]<br>
+[cite_start]<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis [cite: 14]<br>
+[cite_start]<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications [cite: 15]<br>
 [cite_start]<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling [cite: 21]<br>
-[cite_start]<strong>Lab/Industrial:</strong> Excel, SAP, FidaWare, 3D scanning, digital microscopy [cite: 19]<br>
 <strong>Research Domains:</strong> Environmental science; [cite_start]AI/ML; statistical modeling [cite: 20]
 </p>
 
@@ -68,45 +61,34 @@
 [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
 ### Machine Learning Projects
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
-- [cite_start]Neural network implementations using PyTorch and TensorFlow[cite: 14, 35].
-- [cite_start]Applications in computer vision, NLP, and time-series analysis[cite: 7, 33, 37].
+- [cite_start]Neural network implementations using PyTorch and TensorFlow. [cite: 14, 35]
+- [cite_start]Applications in computer vision, NLP, and facial emotion recognition. [cite: 7, 33, 37]
   
 [**Classical ML Projects**](https://github.com/Abdullah-TU/Machine-Learning-projects)
-- [cite_start]Comprehensive ML algorithms: classification, regression, clustering[cite: 38].
-- [cite_start]Feature engineering, model evaluation, and optimization techniques[cite: 34, 37].
+- [cite_start]15+ projects covering classification, regression, and clustering. [cite: 38]
+- [cite_start]Feature engineering, model evaluation, and optimization techniques. [cite: 34, 37]
 ### Applied AI Applications
 [**Graham Defensive Investor Analyzer**](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
-- [cite_start]LLM + FastAPI application for automated annual report analysis[cite: 27, 28].
-- [cite_start]Implements Benjamin Graham's defensive investment criteria[cite: 25, 27].
-- [cite_start]Tech Stack: LangChain, FastAPI, OpenAI API[cite: 28].
-### Learning Resources
-[**Python Utilities & Notebooks**](https://github.com/Abdullah-TU/Python) | [**Statistical R Scripts**](https://github.com/Abdullah-TU/Statistical-R-Language) | [**Academic AI/ML Projects**](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML)
+- [cite_start]LLM + FastAPI application for automated annual report analysis. [cite: 27, 28]
+- [cite_start]Implements Benjamin Graham's defensive investment criteria. [cite: 25, 27]
+- [cite_start]Tech Stack: LangChain, FastAPI, OpenAI API. [cite: 28]
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 🎨 Beyond Code
-
-[cite_start]When I'm not analyzing data or training models, I enjoy painting! [cite: 8] Here are some of my artworks:
-
+[cite_start]When I'm not analyzing data or training models, I enjoy painting! [cite: 8]
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100"> 
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="82" height="100">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="82" height="100">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="150" height="100">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="150" height="100">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="82" height="100">
 </p>
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
 
@@ -114,8 +96,6 @@
   <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 <p align="center">
-  <i> Let's connect and collaborate!</i>
-</p>
-<p align="center">
-  [cite_start]<i> md.abdullah.al.mamun.tu@gmail.com</i> [cite: 4]
+  <i> Let's connect and collaborate!</i><br>
+  [cite_start]<i> md.abdullah.al.mamun.tu@gmail.com</i> [cite: 4, 128]
 </p>
