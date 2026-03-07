@@ -1,39 +1,50 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science** |
 
-I am a Data Scientist with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment.
+[cite_start]I am a Data Scientist with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities[cite: 5, 163]. [cite_start]My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment[cite: 5].
 
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
-  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Google Scholar" style="display:block;" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="Google Scholar"
+         style="display:block;"
+         src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
   </a>
-  <a href="https://orcid.org/0009-0001-6749-9171" style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="ORCID" style="display:block;" src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
+  <a href="https://orcid.org/0009-0001-6749-9171"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="ORCID" style="display:block;"
+         src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
   </a>
-  <a href="https://sciprofiles.com/profile/MdAbdullahAlMamun" style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="SciProfiles" style="display:block;" src="https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI0ZGRkZGRiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjYwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwMDAwMDAiPlNjaTwvdGV4dD48L3N2Zz4=">
+  <a href="https://sciprofiles.com/profile/MdAbdullahAlMamun"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="SciProfiles" style="display:block;"
+         src="https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI0ZGRkZGRiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjYwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwMDAwMDAiPlNjaTwvdGV4dD48L3N2Zz4=">
   </a>
-  <a href="https://github.com/Abdullah-TU" style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="GitHub" style="display:block;" src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
+  <a href="https://github.com/Abdullah-TU"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="GitHub" style="display:block;"
+         src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="LinkedIn" style="display:block;" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="LinkedIn" style="display:block;"
+         src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ### Research Highlights 
-I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝.
+[cite_start]I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝[cite: 160, 163].
 
-#### Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics.
+#### [cite_start]Current Focus Areas: Data Science, Artificial Intelligence, and Geospatial & Environmental Analytics[cite: 20, 21].
 
 ## Recent Publications
 
-1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. [cite_start]*Environmental Geochemistry and Health, 48*, Article 140. [cite: 166, 167, 168]
-2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. [cite_start]*Science of the Total Environment, 1011*, 181190. [cite: 169, 170, 171]
-3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. [cite_start]*Marine Pollution Bulletin, 223*, 118966. [cite: 172, 173, 174]
-4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. [cite_start]*Marine Pollution Bulletin, 222*(Part 1), 118701. [cite: 175, 176, 177]
-5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. [cite_start]*Journal of Contaminant Hydrology, 269*, 104480. [cite: 178, 179, 180]
-6. **Mamun, M. A.**, et al. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. [cite_start]*Science of the Total Environment, 953*, 176024. [cite: 181, 182, 183]
+1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. [cite_start]*Environmental Geochemistry and Health*[cite: 166, 167, 168].
+2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. [cite_start]*Science of the Total Environment, 1011*, 181190[cite: 65, 66, 67].
+3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. [cite_start]*Marine Pollution Bulletin, 223*, 118966[cite: 68, 69, 70].
+4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. [cite_start]*Marine Pollution Bulletin, 222*(Part 1), 118701[cite: 71, 72, 73].
+5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. [cite_start]*Journal of Contaminant Hydrology, 269*, 104480[cite: 75, 76, 77].
+6. **Mamun, M. A.**, et al. (2024). Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach. [cite_start]*Science of The Total Environment, 953*, 176024[cite: 78, 79].
 
 
 ## Academic & professional skills
@@ -57,17 +68,17 @@ I am actively expanding my research portfolio in preparation for doctoral studie
 [**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
 ### Machine Learning Projects
 [**Deep Learning Projects**](https://github.com/Abdullah-TU/Deep-Learning-Projects)
-- [cite_start]Neural network implementations using PyTorch and TensorFlow [cite: 14, 35]
-- [cite_start]Applications in computer vision, NLP, and time-series analysis [cite: 33, 37]
+- [cite_start]Neural network implementations using PyTorch and TensorFlow[cite: 14, 35].
+- [cite_start]Applications in computer vision, NLP, and time-series analysis[cite: 7, 33, 37].
   
 [**Classical ML Projects**](https://github.com/Abdullah-TU/Machine-Learning-projects)
-- [cite_start]Comprehensive ML algorithms: classification, regression, clustering [cite: 38]
-- [cite_start]Feature engineering, model evaluation, and optimization techniques [cite: 34]
+- [cite_start]Comprehensive ML algorithms: classification, regression, clustering[cite: 38].
+- [cite_start]Feature engineering, model evaluation, and optimization techniques[cite: 34, 37].
 ### Applied AI Applications
 [**Graham Defensive Investor Analyzer**](https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer)
-- [cite_start]LLM + FastAPI application for automated annual report analysis [cite: 27, 28]
-- [cite_start]Implements Benjamin Graham's defensive investment criteria [cite: 25, 27]
-- [cite_start]Tech Stack: LangChain, FastAPI, OpenAI API [cite: 28]
+- [cite_start]LLM + FastAPI application for automated annual report analysis[cite: 27, 28].
+- [cite_start]Implements Benjamin Graham's defensive investment criteria[cite: 25, 27].
+- [cite_start]Tech Stack: LangChain, FastAPI, OpenAI API[cite: 28].
 ### Learning Resources
 [**Python Utilities & Notebooks**](https://github.com/Abdullah-TU/Python) | [**Statistical R Scripts**](https://github.com/Abdullah-TU/Statistical-R-Language) | [**Academic AI/ML Projects**](https://github.com/Abdullah-TU/Academic-Projects-in-AI-and-ML)
 
@@ -87,7 +98,7 @@ I am actively expanding my research portfolio in preparation for doctoral studie
 
 ## 🎨 Beyond Code
 
-I believe data science is an art form. When I'm not coding, I'm a painter.  Here are some of my artworks:
+[cite_start]When I'm not analyzing data or training models, I enjoy painting! [cite: 8] Here are some of my artworks:
 
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100"> 
@@ -100,15 +111,11 @@ I believe data science is an art form. When I'm not coding, I'm a painter.  Here
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
 
 <p align="center">
-
-  View My Painting Gallery →
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="120"> <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="120"> <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="220">
-
   <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 <p align="center">
   <i> Let's connect and collaborate!</i>
 </p>
 <p align="center">
-  <i> md.abdullah.al.mamun.tu@gmail.com</i>
+  [cite_start]<i> md.abdullah.al.mamun.tu@gmail.com</i> [cite: 4]
 </p>
