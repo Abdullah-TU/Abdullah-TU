@@ -40,6 +40,8 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 ## Recent Publications
 
 1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. *Environmental Geochemistry and Health*.
+2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. *Science of the Total Environment, 1011*, 181190.
+
 
 ## Academic & professional skills
 <p>
