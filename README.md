@@ -82,7 +82,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🎨 Beyond Code
-When I'm not analyzing data or training models, I enjoy painting!
+When I'm not analyzing data or training models, I enjoy painting! 
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100"> 
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="82" height="100">
