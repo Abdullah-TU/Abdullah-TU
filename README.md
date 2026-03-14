@@ -45,7 +45,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin, 222*(Part 1), 118701.
 5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. *Journal of Contaminant Hydrology, 269*, 104480.
 
-## Academic & professional skills
+## Academic & professional skills 
 <p>
 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
 <strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
