@@ -43,7 +43,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 2. **Mamun, M. A.**, et al. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. *Science of the Total Environment, 1011*, 181190.
 3. Zesha, J. H., **Mamun, M. A.**, et al. (2026). First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis. *Marine Pollution Bulletin, 223*, 118966.
 4. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models. *Marine Pollution Bulletin, 222*(Part 1), 118701.
-
+5. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2025). Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis. *Journal of Contaminant Hydrology, 269*, 104480.
 
 ## Academic & professional skills 
 <p>
