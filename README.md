@@ -51,7 +51,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 <strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
 <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
 <strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
-
+<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications<br>
 
 ## Featured Projects
 ### Research & Publications: 
