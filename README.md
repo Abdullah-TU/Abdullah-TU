@@ -48,6 +48,9 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 ## Academic & professional skills 
 <p>
 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
+<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
+<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+
 
 ## Featured Projects
 ### Research & Publications: 
