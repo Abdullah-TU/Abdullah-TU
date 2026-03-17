@@ -53,7 +53,8 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 <strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
 <strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications<br>
 <strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling<br>
-
+<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
+</p>
 
 ## Featured Projects
 ### Research & Publications: 
