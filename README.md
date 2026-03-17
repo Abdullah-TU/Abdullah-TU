@@ -50,6 +50,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 <strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
 <strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
 <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
 
 
 ## Featured Projects
