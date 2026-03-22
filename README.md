@@ -35,7 +35,7 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 ### Research Highlights 
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
-#### Current Focus Areas: Explainable AI, Physics-Informed ML, and Environmental Analytics.
+Explainable AI, Physics-Informed ML, and Environmental Analytics.
 
 ## Recent Publications
 
