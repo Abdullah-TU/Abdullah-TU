@@ -35,8 +35,6 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 ### Research Highlights 
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
-and Environmental Analytics.
-
 ## Recent Publications
 
 1. Islam, A. R. M. T., **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. *Environmental Geochemistry and Health*.
