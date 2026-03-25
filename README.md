@@ -36,6 +36,8 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
 ## Recent Publications
+### Research & Publications: 
+[**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
 
 1. Islam, A. R. M. T., **Mamun, M. A.**, Tasnuva, A., Aktar, M. N., Mishra, M., Mamun, A. A., & Moin, M. J. (2026). Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities. Science of the Total Environment, 1020, 181581. https://doi.org/10.1016/j.scitotenv.2026.181581
 2.Islam, A. R. M. T.,  **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. Environmental Geochemistry and Health, 48, Article 140. https://doi.org/10.1007/s10653-026-03031-z
