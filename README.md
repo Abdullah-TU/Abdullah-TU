@@ -13,6 +13,9 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
   </a>
 </p>
 
+# Research Highlights 
+I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
+
 <ol>
   <li>
     Islam, A. R. M. T., <b>Mamun, M. A.</b>, Tasnuva, A., Aktar, M. N., Mishra, M., Mamun, A. A., &amp; Moin, M. J. (2026).
@@ -56,8 +59,7 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
     <a href="https://doi.org/10.1016/j.jconhyd.2024.104480">https://doi.org/10.1016/j.jconhyd.2024.104480</a>
   </li>
 </ol>
-### Research Highlights 
-I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
+
 
 ## Recent Publications
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
