@@ -36,14 +36,14 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
 ## Recent Publications
-### Research & Publications: 
-[**Research Publications Repository**](https://github.com/Abdullah-TU/Research-Publications)
-  <a href="[https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white](https://github.com/Abdullah-TU/Research-Publications)"
+<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+  <a href="https://github.com/Abdullah-TU/Research-Publications"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Research & Publications"
+    <img alt="Research Publications Repository"
          style="display:block;"
-         src="[https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white](https://github.com/Abdullah-TU/Research-Publications)">
+         src="https://img.shields.io/badge/Research%20Publications-Repository-181717?style=flat&logo=github&logoColor=white">
   </a>
+</p>
 1. Islam, A. R. M. T., **Mamun, M. A.**, Tasnuva, A., Aktar, M. N., Mishra, M., Mamun, A. A., & Moin, M. J. (2026). Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities. Science of the Total Environment, 1020, 181581. https://doi.org/10.1016/j.scitotenv.2026.181581
 2.Islam, A. R. M. T.,  **Mamun, M. A.**, et al. (2026). Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh. Environmental Geochemistry and Health, 48, Article 140. https://doi.org/10.1007/s10653-026-03031-z
 3. **Mamun, M. A.**, Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., & Islam, A. R. M. T. (2026). Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers. Science of the Total Environment, 1011, 181190. https://doi.org/10.1016/j.scitotenv.2025.181190
