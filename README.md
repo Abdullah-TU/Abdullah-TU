@@ -39,9 +39,9 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://github.com/Abdullah-TU/Research-Publications"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Research Publications Repository"
+    <img alt="Research & Publications Repository"
          style="display:block;"
-         src="https://img.shields.io/badge/Research%20Publications-Repository-181717?style=flat&logo=github&logoColor=white">
+         src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
 </p>
 
