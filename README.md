@@ -89,42 +89,31 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 
 ## Featured Projects
 
-<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
-  <a href="https://github.com/Abdullah-TU/Research-Publications"
-     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Research & Publications Repository"
-         style="display:block;"
-         src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+<p>
+  <a href="https://github.com/Abdullah-TU/Research-Publications">
+    <img alt="Research & Publications Repository" src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
-
-  <a href="https://github.com/Abdullah-TU/Deep-Learning-Projects"
-     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Deep Learning Projects Repository"
-         style="display:block;"
-         src="https://img.shields.io/badge/Deep%20Learning%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  <a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">
+    <img alt="Deep Learning Projects Repository" src="https://img.shields.io/badge/Deep%20Learning%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
-
-  <a href="https://github.com/Abdullah-TU/Machine-Learning-projects"
-     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Classical ML Projects Repository"
-         style="display:block;"
-         src="https://img.shields.io/badge/Classical%20ML%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  <a href="https://github.com/Abdullah-TU/Machine-Learning-projects">
+    <img alt="Classical ML Projects Repository" src="https://img.shields.io/badge/Classical%20ML%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
-
-  <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer"
-     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
-    <img alt="Graham Defensive Investor Analyzer Repository"
-         style="display:block;"
-         src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">
+    <img alt="Graham Defensive Investor Analyzer Repository" src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
 </p>
+
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
 
 ## 🎨 Beyond Code
 When I'm not analyzing data or training models, I enjoy painting! 
