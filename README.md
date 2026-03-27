@@ -36,6 +36,7 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
 ## Recent Publications
+
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://github.com/Abdullah-TU/Research-Publications"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
