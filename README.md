@@ -88,7 +88,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 </p>
 
 ## Featured Projects
-### Research & Publications: 
+
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://github.com/Abdullah-TU/Research-Publications"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
@@ -96,26 +96,21 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
          style="display:block;"
          src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
-</p>
-<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+
   <a href="https://github.com/Abdullah-TU/Deep-Learning-Projects"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
     <img alt="Deep Learning Projects Repository"
          style="display:block;"
          src="https://img.shields.io/badge/Deep%20Learning%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
-</p>
 
-<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://github.com/Abdullah-TU/Machine-Learning-projects"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
     <img alt="Classical ML Projects Repository"
          style="display:block;"
          src="https://img.shields.io/badge/Classical%20ML%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
-</p>
 
-<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
   <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer"
      style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
     <img alt="Graham Defensive Investor Analyzer Repository"
@@ -123,7 +118,6 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
          src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
 </p>
-
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
