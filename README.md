@@ -32,6 +32,16 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
   </a>
 </p>
 
+## Academic & professional skills 
+<p>
+<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
+<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
+<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
+<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
+<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications<br>
+<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling<br>
+<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
+</p>
 ### Research Highlights 
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
@@ -76,16 +86,7 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 <a href="https://doi.org/10.1016/j.jconhyd.2024.104480">https://doi.org/10.1016/j.jconhyd.2024.104480</a>
 </p>
   
-## Academic & professional skills 
-<p>
-<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
-<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
-<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
-<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
-<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications<br>
-<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling<br>
-<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
-</p>
+
 
 ## Featured Projects
 
