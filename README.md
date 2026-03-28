@@ -60,6 +60,7 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
     <img alt="Graham Defensive Investor Analyzer Repository" src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
   </a>
 </p>
+
 ### Research Highlights 
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
