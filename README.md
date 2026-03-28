@@ -42,8 +42,28 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 <strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling<br>
 <strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
 </p>
+
+
+## Featured Projects
+
+<p>
+  <a href="https://github.com/Abdullah-TU/Research-Publications">
+    <img alt="Research & Publications Repository" src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">
+    <img alt="Deep Learning Projects Repository" src="https://img.shields.io/badge/Deep%20Learning%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdullah-TU/Machine-Learning-projects">
+    <img alt="Classical ML Projects Repository" src="https://img.shields.io/badge/Classical%20ML%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">
+    <img alt="Graham Defensive Investor Analyzer Repository" src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
 ### Research Highlights 
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
+
+
 
 ## Recent Publications
 
@@ -88,22 +108,6 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
   
 
 
-## Featured Projects
-
-<p>
-  <a href="https://github.com/Abdullah-TU/Research-Publications">
-    <img alt="Research & Publications Repository" src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">
-    <img alt="Deep Learning Projects Repository" src="https://img.shields.io/badge/Deep%20Learning%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/Abdullah-TU/Machine-Learning-projects">
-    <img alt="Classical ML Projects Repository" src="https://img.shields.io/badge/Classical%20ML%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">
-    <img alt="Graham Defensive Investor Analyzer Repository" src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
-  </a>
-</p>
 
 ## Tech Stack
 
