@@ -33,15 +33,37 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
 </p>
 
 ## Academic & professional skills 
-<p>
-<strong>Programming:</strong> Python, R, Java, JavaScript/TypeScript, MATLAB<br>
-<strong>Databases:</strong> SQL (PostgreSQL, MySQL)<br>
-<strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, ggplot2, Power BI<br>
-<strong>ML & Deep Learning:</strong> PyTorch, TensorFlow, Scikit-Learn, NLP, Image Analysis<br>
-<strong>GenAI & LLMs:</strong> LLM integration, Prompt Engineering, GenAI Applications<br>
-<strong>Spatial:</strong> QGIS, ArcGIS; geostatistics & spatial modeling<br>
-<strong>Research Domains:</strong> Environmental science; AI/ML; statistical modeling
-</p>
+🎓 Skills 💪:
+
+
+
+👨‍💻 Programming:    Python, Statistical R, Java, JavaScript.
+
+🥮 Databases:          SQL, PostgreSQL, MySQL, MongoDB.
+
+📈 Visualization:      Matplotlib, Seaborn, Plotly, Seaborn, ggplot, Microsoft Power BI.
+
+🤖🦾 Machine Learning Skills: Numpy, Pandas, SciPy, Scikit-Learn, Neural Net, TensorFlow, Pytorch, NLP,
+
+                           Text data analysis, Image analysis.
+
+🧠 Deep Learning: CNNs, RNNs, GANs, LSTM, NLP with deep learning models, Computer Vision, Transfer Learning, Reinforcement Learning etc
+
+📁 Version Control: Git, GitHub.
+
+📲 Android:             Android App Development (Java).
+
+⛅Cloud:                Microsoft Azure.
+
+🧪 Test Automation: Unit test, Integration Test.
+
+🌐 Web scraping
+
+🌍 GIS Mapping: QGIS
+
+
+
+🧠 Professional Develop
 
 
 ## Featured Projects
