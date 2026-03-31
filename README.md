@@ -1,1069 +1,145 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Md. Abdullah-Al Mamun — Data Scientist & Researcher</title>
-<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400;500&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<style>
-:root {
-  --bg: #060b14;
-  --bg2: #0c1422;
-  --bg3: #111d2e;
-  --teal: #0ef4c8;
-  --teal2: #07c4a0;
-  --blue: #1a8fff;
-  --muted: #4a6280;
-  --text: #c8daf0;
-  --text2: #8aaece;
-  --white: #f0f8ff;
-  --card: #0d1826;
-  --border: rgba(14,244,200,0.12);
-  --glow: 0 0 32px rgba(14,244,200,0.15);
-}
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
-body {
-  font-family: 'Outfit', sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  overflow-x: hidden;
-  line-height: 1.7;
-}
+# Hi, I'm Md. Abdullah-Al Mamun 
+**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science** |
 
-/* ── NOISE OVERLAY ── */
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
-  pointer-events: none;
-  z-index: 1000;
-  opacity: 0.4;
-}
+I am a Data Scientist/Researcher with a solid motive to create, innovate, and research in the field of Data Science, Machine learning, and to promote global solutions for the betterment of the organization and communities. My goal is to build data-driven, globally scalable solutions that support both organizational innovation and societal betterment. With over 5 years of professional experience, I have honed my skills across programming, databases, Android development, version control, cloud computing, test automation, and laboratory and industrial techniques.
 
-/* ── NAV ── */
-nav {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  z-index: 999;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1.2rem 4rem;
-  background: rgba(6,11,20,0.85);
-  backdrop-filter: blur(20px);
-  border-bottom: 1px solid var(--border);
-}
-.nav-logo {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.85rem;
-  color: var(--teal);
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-}
-.nav-links { display: flex; gap: 2.5rem; list-style: none; }
-.nav-links a {
-  font-size: 0.82rem;
-  color: var(--text2);
-  text-decoration: none;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  transition: color 0.2s;
-  font-weight: 500;
-}
-.nav-links a:hover { color: var(--teal); }
+<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+  <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="Google Scholar"
+         style="display:block;"
+         src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0001-6749-9171"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="ORCID" style="display:block;"
+         src="https://img.shields.io/badge/ORCID-0009--0001--6749--9171-A6CE39?style=flat&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://sciprofiles.com/profile/MdAbdullahAlMamun"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="SciProfiles" style="display:block;"
+         src="https://img.shields.io/badge/SciProfiles-Profile-0083BE?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI0ZGRkZGRiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjYwIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwMDAwMDAiPlNjaTwvdGV4dD48L3N2Zz4=">
+  </a>
+  <a href="https://github.com/Abdullah-TU"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="GitHub" style="display:block;"
+         src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="LinkedIn" style="display:block;"
+         src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-/* ── HERO ── */
-.hero {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  padding: 6rem 2rem 4rem;
-}
-.hero-bg {
-  position: absolute; inset: 0;
-  background: radial-gradient(ellipse 70% 60% at 60% 40%, rgba(14,244,200,0.06) 0%, transparent 70%),
-              radial-gradient(ellipse 50% 40% at 20% 80%, rgba(26,143,255,0.05) 0%, transparent 60%);
-}
-.hero-grid {
-  position: absolute; inset: 0;
-  background-image: linear-gradient(rgba(14,244,200,0.03) 1px, transparent 1px),
-                    linear-gradient(90deg, rgba(14,244,200,0.03) 1px, transparent 1px);
-  background-size: 60px 60px;
-  mask-image: radial-gradient(ellipse 80% 80% at 50% 50%, black, transparent);
-}
-.hero-content {
-  position: relative;
-  max-width: 900px;
-  text-align: center;
-  animation: fadeUp 1s ease both;
-}
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(30px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
-.hero-eyebrow {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.78rem;
-  color: var(--teal);
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  margin-bottom: 1.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.8rem;
-}
-.hero-eyebrow::before, .hero-eyebrow::after {
-  content: '';
-  width: 40px; height: 1px;
-  background: var(--teal);
-  opacity: 0.5;
-}
-.hero-name {
-  font-family: 'DM Serif Display', serif;
-  font-size: clamp(3rem, 7vw, 5.5rem);
-  color: var(--white);
-  line-height: 1.1;
-  margin-bottom: 1rem;
-  letter-spacing: -0.02em;
-}
-.hero-name span { color: var(--teal); font-style: italic; }
-.hero-tagline {
-  font-size: 1.15rem;
-  color: var(--text2);
-  margin-bottom: 0.8rem;
-  font-weight: 400;
-}
-.hero-location {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.78rem;
-  color: var(--muted);
-  letter-spacing: 0.1em;
-  margin-bottom: 2.5rem;
-}
-.hero-badges {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.6rem;
-  margin-bottom: 2.8rem;
-}
-.badge {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  padding: 0.35rem 0.9rem;
-  border-radius: 2px;
-  border: 1px solid var(--border);
-  color: var(--text2);
-  background: rgba(14,244,200,0.04);
-  text-transform: uppercase;
-}
-.hero-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
-.btn-primary {
-  padding: 0.85rem 2.2rem;
-  background: var(--teal);
-  color: var(--bg);
-  font-weight: 700;
-  font-size: 0.82rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  text-decoration: none;
-  border-radius: 3px;
-  transition: all 0.2s;
-  font-family: 'Outfit', sans-serif;
-}
-.btn-primary:hover { background: var(--teal2); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(14,244,200,0.25); }
-.btn-ghost {
-  padding: 0.85rem 2.2rem;
-  border: 1px solid var(--border);
-  color: var(--text2);
-  font-weight: 500;
-  font-size: 0.82rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  text-decoration: none;
-  border-radius: 3px;
-  transition: all 0.2s;
-}
-.btn-ghost:hover { border-color: var(--teal); color: var(--teal); transform: translateY(-2px); }
+## Academic & professional skills 
+## 🎓 Skills 💪
 
-/* ── STATS BAR ── */
-.stats-bar {
-  background: var(--bg2);
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
-  padding: 2rem 4rem;
-  display: flex;
-  justify-content: center;
-  gap: 5rem;
-  flex-wrap: wrap;
-}
-.stat { text-align: center; }
-.stat-num {
-  font-family: 'DM Serif Display', serif;
-  font-size: 2.2rem;
-  color: var(--teal);
-  display: block;
-  line-height: 1;
-}
-.stat-label {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.68rem;
-  color: var(--muted);
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  margin-top: 0.3rem;
-}
+👨‍💻 **Programming:** Python, R, Java, JavaScript  
+🗄️ **Databases:** SQL, PostgreSQL, MySQL, MongoDB  
+📈 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Microsoft Power BI  
+🤖 **Machine Learning:** NumPy, Pandas, SciPy, Scikit-learn, Neural Networks, TensorFlow, PyTorch, NLP, Text Analysis, Image Analysis  
+🧠 **Deep Learning:** CNNs, RNNs, GANs, LSTMs, NLP with Deep Learning, Computer Vision, Transfer Learning, Reinforcement Learning  
+📁 **Version Control:** Git, GitHub  
+📲 **Android Development:** Android App Development (Java)  
+☁️ **Cloud:** Microsoft Azure  
+🧪 **Test Automation:** Unit Testing, Integration Testing  
+🌐 **Web Scraping**  
+🌍 **GIS Mapping:** QGIS  
 
-/* ── SECTIONS ── */
-section { padding: 5rem 2rem; }
-.section-inner { max-width: 1100px; margin: 0 auto; }
-.section-label {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.72rem;
-  color: var(--teal);
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  margin-bottom: 0.5rem;
-}
-.section-title {
-  font-family: 'DM Serif Display', serif;
-  font-size: clamp(2rem, 4vw, 2.8rem);
-  color: var(--white);
-  margin-bottom: 1rem;
-  line-height: 1.2;
-}
-.section-desc {
-  color: var(--text2);
-  font-size: 1rem;
-  max-width: 600px;
-  margin-bottom: 3rem;
-}
 
-/* ── AUTO-SLIDER ── */
-.slider-wrapper {
-  overflow: hidden;
-  position: relative;
-  margin: 0 -2rem;
-  padding: 1rem 0;
-}
-.slider-wrapper::before, .slider-wrapper::after {
-  content: '';
-  position: absolute;
-  top: 0; bottom: 0;
-  width: 100px;
-  z-index: 10;
-  pointer-events: none;
-}
-.slider-wrapper::before { left: 0; background: linear-gradient(90deg, var(--bg), transparent); }
-.slider-wrapper::after  { right: 0; background: linear-gradient(-90deg, var(--bg), transparent); }
-.slider-track {
-  display: flex;
-  gap: 1rem;
-  animation: slide 30s linear infinite;
-  width: max-content;
-}
-.slider-track:hover { animation-play-state: paused; }
-@keyframes slide {
-  from { transform: translateX(0); }
-  to   { transform: translateX(-50%); }
-}
-.skill-chip {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  padding: 0.7rem 1.3rem;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  white-space: nowrap;
-  font-size: 0.85rem;
-  color: var(--text2);
-  font-weight: 500;
-  transition: border-color 0.2s, color 0.2s;
-  cursor: default;
-}
-.skill-chip:hover { border-color: var(--teal); color: var(--teal); }
-.chip-icon { font-size: 1rem; }
+## Featured Projects
 
-/* ── PUBLICATION CARDS ── */
-.pub-slider-wrapper {
-  overflow: hidden;
-  position: relative;
-  padding: 0.5rem 0;
-}
-.pub-slider-wrapper::before, .pub-slider-wrapper::after {
-  content: '';
-  position: absolute;
-  top: 0; bottom: 0;
-  width: 80px;
-  z-index: 10;
-  pointer-events: none;
-}
-.pub-slider-wrapper::before { left: 0; background: linear-gradient(90deg, var(--bg), transparent); }
-.pub-slider-wrapper::after  { right: 0; background: linear-gradient(-90deg, var(--bg), transparent); }
-.pub-track {
-  display: flex;
-  gap: 1.5rem;
-  animation: slide 45s linear infinite;
-  width: max-content;
-}
-.pub-track:hover { animation-play-state: paused; }
-.pub-card {
-  width: 340px;
-  flex-shrink: 0;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 1.8rem;
-  position: relative;
-  overflow: hidden;
-  transition: border-color 0.3s, transform 0.3s;
-  cursor: default;
-}
-.pub-card::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 2px;
-  background: linear-gradient(90deg, var(--teal), var(--blue));
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.3s;
-}
-.pub-card:hover { border-color: rgba(14,244,200,0.3); transform: translateY(-4px); }
-.pub-card:hover::before { transform: scaleX(1); }
-.pub-journal {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.65rem;
-  color: var(--teal);
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  margin-bottom: 0.8rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-.pub-year {
-  font-size: 0.62rem;
-  color: var(--muted);
-  background: rgba(14,244,200,0.07);
-  padding: 0.15rem 0.5rem;
-  border-radius: 2px;
-}
-.pub-title {
-  font-size: 0.9rem;
-  color: var(--white);
-  font-weight: 600;
-  line-height: 1.5;
-  margin-bottom: 0.8rem;
-}
-.pub-authors {
-  font-size: 0.75rem;
-  color: var(--muted);
-  line-height: 1.5;
-  margin-bottom: 1rem;
-}
-.pub-authors strong { color: var(--teal2); }
-.pub-doi {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.65rem;
-  color: var(--blue);
-  text-decoration: none;
-  letter-spacing: 0.05em;
-}
-.pub-doi:hover { color: var(--teal); }
+<p>
+  <a href="https://github.com/Abdullah-TU/Research-Publications">
+    <img alt="Research & Publications Repository" src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdullah-TU/Deep-Learning-Projects">
+    <img alt="Deep Learning Projects Repository" src="https://img.shields.io/badge/Deep%20Learning%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdullah-TU/Machine-Learning-projects">
+    <img alt="Classical ML Projects Repository" src="https://img.shields.io/badge/Classical%20ML%20Projects-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer">
+    <img alt="Graham Defensive Investor Analyzer Repository" src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
 
-/* ── PROJECT CARDS ── */
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-}
-.project-card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 1.8rem;
-  text-decoration: none;
-  display: block;
-  transition: all 0.3s;
-  position: relative;
-  overflow: hidden;
-}
-.project-card::after {
-  content: '';
-  position: absolute;
-  bottom: 0; left: 0; right: 0;
-  height: 1px;
-  background: linear-gradient(90deg, transparent, var(--teal), transparent);
-  transform: scaleX(0);
-  transition: transform 0.3s;
-}
-.project-card:hover { border-color: rgba(14,244,200,0.25); transform: translateY(-3px); box-shadow: var(--glow); }
-.project-card:hover::after { transform: scaleX(1); }
-.project-icon {
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
-}
-.project-name {
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: var(--white);
-  margin-bottom: 0.5rem;
-}
-.project-desc {
-  font-size: 0.8rem;
-  color: var(--text2);
-  line-height: 1.6;
-  margin-bottom: 1rem;
-}
-.project-tag {
-  display: inline-block;
-  font-family: 'DM Mono', monospace;
-  font-size: 0.62rem;
-  padding: 0.2rem 0.6rem;
-  background: rgba(14,244,200,0.07);
-  color: var(--teal);
-  border-radius: 2px;
-  letter-spacing: 0.06em;
-  margin-right: 0.4rem;
-  margin-bottom: 0.3rem;
-}
-.project-arrow {
-  display: inline-block;
-  color: var(--teal);
-  font-size: 0.8rem;
-  margin-top: 0.5rem;
-  transition: transform 0.2s;
-}
-.project-card:hover .project-arrow { transform: translateX(4px); }
+### Research Highlights 
+I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
-/* ── EXPERIENCE ── */
-.exp-timeline { position: relative; }
-.exp-timeline::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 8px; bottom: 8px;
-  width: 1px;
-  background: linear-gradient(180deg, var(--teal), transparent);
-  margin-left: 6px;
-}
-.exp-item {
-  padding-left: 2.5rem;
-  margin-bottom: 2.5rem;
-  position: relative;
-}
-.exp-dot {
-  position: absolute;
-  left: 0; top: 8px;
-  width: 13px; height: 13px;
-  border-radius: 50%;
-  background: var(--bg);
-  border: 2px solid var(--teal);
-  box-shadow: 0 0 12px rgba(14,244,200,0.4);
-}
-.exp-period {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.68rem;
-  color: var(--teal);
-  letter-spacing: 0.08em;
-  margin-bottom: 0.3rem;
-}
-.exp-title { font-size: 1.05rem; font-weight: 700; color: var(--white); margin-bottom: 0.2rem; }
-.exp-company { font-size: 0.85rem; color: var(--text2); margin-bottom: 0.8rem; }
-.exp-desc { font-size: 0.85rem; color: var(--muted); line-height: 1.7; }
-.exp-desc li { margin-bottom: 0.3rem; list-style: none; padding-left: 1rem; position: relative; }
-.exp-desc li::before { content: '→'; position: absolute; left: 0; color: var(--teal); font-size: 0.7rem; }
 
-/* ── TECH STACK SLIDER ── */
-.tech-track {
-  display: flex;
-  gap: 1rem;
-  animation: slide 20s linear infinite;
-  width: max-content;
-}
-.tech-track:hover { animation-play-state: paused; }
-.tech-chip {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 1.2rem 1.8rem;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  white-space: nowrap;
-  min-width: 110px;
-  transition: all 0.2s;
-  cursor: default;
-}
-.tech-chip:hover { border-color: var(--teal); transform: translateY(-3px); box-shadow: var(--glow); }
-.tech-emoji { font-size: 1.6rem; margin-bottom: 0.4rem; }
-.tech-name {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.68rem;
-  color: var(--text2);
-  letter-spacing: 0.08em;
-  text-align: center;
-}
 
-/* ── EDUCATION ── */
-.edu-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
-.edu-card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 1.8rem;
-  position: relative;
-  overflow: hidden;
-}
-.edu-card::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0;
-  width: 3px; height: 100%;
-  background: linear-gradient(180deg, var(--teal), var(--blue));
-}
-.edu-degree { font-size: 0.9rem; font-weight: 700; color: var(--white); margin-bottom: 0.3rem; }
-.edu-uni { font-size: 0.82rem; color: var(--teal2); margin-bottom: 0.3rem; font-weight: 500; }
-.edu-year {
-  font-family: 'DM Mono', monospace;
-  font-size: 0.68rem;
-  color: var(--muted);
-  letter-spacing: 0.08em;
-  margin-bottom: 0.8rem;
-}
-.edu-courses { font-size: 0.78rem; color: var(--text2); line-height: 1.7; }
+## Recent Publications
 
-/* ── CONTACT ── */
-.contact-section { background: var(--bg2); border-top: 1px solid var(--border); }
-.contact-inner {
-  max-width: 700px;
-  margin: 0 auto;
-  text-align: center;
-}
-.contact-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-  margin-top: 2rem;
-}
-.contact-link {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  padding: 0.75rem 1.5rem;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  text-decoration: none;
-  color: var(--text2);
-  font-size: 0.82rem;
-  font-weight: 500;
-  transition: all 0.2s;
-  letter-spacing: 0.05em;
-}
-.contact-link:hover { border-color: var(--teal); color: var(--teal); transform: translateY(-2px); }
+<p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+  <a href="https://github.com/Abdullah-TU/Research-Publications"
+     style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+    <img alt="Research & Publications Repository"
+         style="display:block;"
+         src="https://img.shields.io/badge/Research%20%26%20Publications-Repository-6B8E23?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
 
-/* ── FOOTER ── */
-footer {
-  padding: 2rem 4rem;
-  text-align: center;
-  background: var(--bg);
-  border-top: 1px solid var(--border);
-  font-family: 'DM Mono', monospace;
-  font-size: 0.68rem;
-  color: var(--muted);
-  letter-spacing: 0.08em;
-}
-footer span { color: var(--teal); }
+<p>
+1. Islam, A. R. M. T., <b>Mamun, M. A.</b>, Tasnuva, A., Aktar, M. N., Mishra, M., Mamun, A. A., &amp; Moin, M. J. (2026). <i>Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities.</i> Science of the Total Environment, 1020, 181581.<br>
+<a href="https://doi.org/10.1016/j.scitotenv.2026.181581">https://doi.org/10.1016/j.scitotenv.2026.181581</a>
+</p>
 
-/* ── SCROLL REVEAL ── */
-.reveal {
-  opacity: 0;
-  transform: translateY(24px);
-  transition: opacity 0.7s ease, transform 0.7s ease;
-}
-.reveal.visible { opacity: 1; transform: translateY(0); }
+<p>
+2. Islam, A. R. M. T., <b>Mamun, M. A.</b>, et al. (2026). <i>Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh.</i> Environmental Geochemistry and Health, 48, Article 140.<br>
+<a href="https://doi.org/10.1007/s10653-026-03031-z">https://doi.org/10.1007/s10653-026-03031-z</a>
+</p>
 
-@media(max-width: 768px) {
-  nav { padding: 1rem 1.5rem; }
-  .nav-links { gap: 1.2rem; }
-  .stats-bar { gap: 2rem; padding: 1.5rem 2rem; }
-  section { padding: 3.5rem 1.5rem; }
-}
-</style>
-</head>
-<body>
+<p>
+3. <b>Mamun, M. A.</b>, Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., &amp; Islam, A. R. M. T. (2026). <i>Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers.</i> Science of the Total Environment, 1011, 181190.<br>
+<a href="https://doi.org/10.1016/j.scitotenv.2025.181190">https://doi.org/10.1016/j.scitotenv.2025.181190</a>
+</p>
 
-<!-- NAV -->
-<nav>
-  <div class="nav-logo">MAM · Portfolio</div>
-  <ul class="nav-links">
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#publications">Research</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#experience">Experience</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
+<p>
+4. Zesha, J. H., <b>Mamun, M. A.</b>, Islam, A. R. M. T., Habib, M. A., &amp; Khan, R. (2026). <i>First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis.</i> Marine Pollution Bulletin, 223, 118966.<br>
+<a href="https://doi.org/10.1016/j.marpolbul.2025.118966">https://doi.org/10.1016/j.marpolbul.2025.118966</a>
+</p>
 
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-bg"></div>
-  <div class="hero-grid"></div>
-  <div class="hero-content">
-    <div class="hero-eyebrow">Data Scientist & Researcher</div>
-    <h1 class="hero-name">Md. Abdullah-Al <span>Mamun</span></h1>
-    <p class="hero-tagline">Machine Learning · Deep Learning · Environmental AI · Explainable ML</p>
-    <p class="hero-location">📍 Salo, Finland &nbsp;·&nbsp; M.Sc. Computing Sciences, Tampere University</p>
-    <div class="hero-badges">
-      <span class="badge">10 Peer-reviewed publications</span>
-      <span class="badge">Q1 Journals</span>
-      <span class="badge">5+ Years Experience</span>
-      <span class="badge">Open to Collaboration</span>
-    </div>
-    <div class="hero-cta">
-      <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ" target="_blank" class="btn-primary">Google Scholar →</a>
-      <a href="https://github.com/Abdullah-TU" target="_blank" class="btn-ghost">GitHub</a>
-      <a href="https://linkedin.com/in/md-abdullah-al-mamun-a23416b8/" target="_blank" class="btn-ghost">LinkedIn</a>
-    </div>
-  </div>
-</section>
+<p>
+5. Islam, A. R. M. T., Varol, M., Mallick, J., <b>Mamun, M. A.</b>, Mia, M. Y., Siddique, M. A. B., Islam, M. S., &amp; Aktar, M. N. (2026). <i>Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models.</i> Marine Pollution Bulletin, 222, 118701.<br>
+<a href="https://doi.org/10.1016/j.marpolbul.2025.118701">https://doi.org/10.1016/j.marpolbul.2025.118701</a>
+</p>
 
-<!-- STATS -->
-<div class="stats-bar">
-  <div class="stat">
-    <span class="stat-num">10</span>
-    <span class="stat-label">Publications</span>
-  </div>
-  <div class="stat">
-    <span class="stat-num">5+</span>
-    <span class="stat-label">Years Experience</span>
-  </div>
-  <div class="stat">
-    <span class="stat-num">3</span>
-    <span class="stat-label">Degrees</span>
-  </div>
-  <div class="stat">
-    <span class="stat-num">Q1</span>
-    <span class="stat-label">Journal Tier</span>
-  </div>
-</div>
+<p>
+6. Islam, A. R. M. T., <b>Mamun, M. A.</b>, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., &amp; Senapathi, V. (2025). <i>Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis.</i> Journal of Contaminant Hydrology, 269, 104480.<br>
+<a href="https://doi.org/10.1016/j.jconhyd.2024.104480">https://doi.org/10.1016/j.jconhyd.2024.104480</a>
+</p>
+  
 
-<!-- SKILLS -->
-<section id="skills">
-  <div class="section-inner">
-    <div class="reveal">
-      <div class="section-label">Expertise</div>
-      <h2 class="section-title">Skills & Technologies</h2>
-      <p class="section-desc">Hover to pause the carousel. Spanning programming, ML/DL, cloud, GIS, and visualization.</p>
-    </div>
-  </div>
-  <!-- Row 1 -->
-  <div class="slider-wrapper reveal">
-    <div class="slider-track" id="track1">
-      <div class="skill-chip"><span class="chip-icon">🐍</span> Python</div>
-      <div class="skill-chip"><span class="chip-icon">📊</span> R</div>
-      <div class="skill-chip"><span class="chip-icon">☕</span> Java</div>
-      <div class="skill-chip"><span class="chip-icon">🌐</span> JavaScript</div>
-      <div class="skill-chip"><span class="chip-icon">🤖</span> TensorFlow</div>
-      <div class="skill-chip"><span class="chip-icon">🔥</span> PyTorch</div>
-      <div class="skill-chip"><span class="chip-icon">🧠</span> Scikit-learn</div>
-      <div class="skill-chip"><span class="chip-icon">📈</span> NumPy / Pandas</div>
-      <div class="skill-chip"><span class="chip-icon">🗺️</span> QGIS</div>
-      <div class="skill-chip"><span class="chip-icon">📉</span> Power BI</div>
-      <div class="skill-chip"><span class="chip-icon">☁️</span> Microsoft Azure</div>
-      <div class="skill-chip"><span class="chip-icon">🗄️</span> SQL / PostgreSQL</div>
-      <!-- duplicate for seamless loop -->
-      <div class="skill-chip"><span class="chip-icon">🐍</span> Python</div>
-      <div class="skill-chip"><span class="chip-icon">📊</span> R</div>
-      <div class="skill-chip"><span class="chip-icon">☕</span> Java</div>
-      <div class="skill-chip"><span class="chip-icon">🌐</span> JavaScript</div>
-      <div class="skill-chip"><span class="chip-icon">🤖</span> TensorFlow</div>
-      <div class="skill-chip"><span class="chip-icon">🔥</span> PyTorch</div>
-      <div class="skill-chip"><span class="chip-icon">🧠</span> Scikit-learn</div>
-      <div class="skill-chip"><span class="chip-icon">📈</span> NumPy / Pandas</div>
-      <div class="skill-chip"><span class="chip-icon">🗺️</span> QGIS</div>
-      <div class="skill-chip"><span class="chip-icon">📉</span> Power BI</div>
-      <div class="skill-chip"><span class="chip-icon">☁️</span> Microsoft Azure</div>
-      <div class="skill-chip"><span class="chip-icon">🗄️</span> SQL / PostgreSQL</div>
-    </div>
-  </div>
-  <!-- Row 2 (reverse) -->
-  <div class="slider-wrapper reveal" style="margin-top:1rem;">
-    <div class="slider-track" style="animation-direction: reverse; animation-duration: 25s;">
-      <div class="skill-chip"><span class="chip-icon">🧬</span> CNNs / RNNs</div>
-      <div class="skill-chip"><span class="chip-icon">💬</span> NLP</div>
-      <div class="skill-chip"><span class="chip-icon">👁️</span> Computer Vision</div>
-      <div class="skill-chip"><span class="chip-icon">🔁</span> Transfer Learning</div>
-      <div class="skill-chip"><span class="chip-icon">🎮</span> Reinforcement Learning</div>
-      <div class="skill-chip"><span class="chip-icon">📦</span> Git / GitHub</div>
-      <div class="skill-chip"><span class="chip-icon">🔬</span> Web Scraping</div>
-      <div class="skill-chip"><span class="chip-icon">📲</span> Android Dev</div>
-      <div class="skill-chip"><span class="chip-icon">🌊</span> GIS Mapping</div>
-      <div class="skill-chip"><span class="chip-icon">📡</span> XAI / SHAP</div>
-      <div class="skill-chip"><span class="chip-icon">🧪</span> Unit Testing</div>
-      <div class="skill-chip"><span class="chip-icon">🗃️</span> MongoDB</div>
-      <!-- duplicates -->
-      <div class="skill-chip"><span class="chip-icon">🧬</span> CNNs / RNNs</div>
-      <div class="skill-chip"><span class="chip-icon">💬</span> NLP</div>
-      <div class="skill-chip"><span class="chip-icon">👁️</span> Computer Vision</div>
-      <div class="skill-chip"><span class="chip-icon">🔁</span> Transfer Learning</div>
-      <div class="skill-chip"><span class="chip-icon">🎮</span> Reinforcement Learning</div>
-      <div class="skill-chip"><span class="chip-icon">📦</span> Git / GitHub</div>
-      <div class="skill-chip"><span class="chip-icon">🔬</span> Web Scraping</div>
-      <div class="skill-chip"><span class="chip-icon">📲</span> Android Dev</div>
-      <div class="skill-chip"><span class="chip-icon">🌊</span> GIS Mapping</div>
-      <div class="skill-chip"><span class="chip-icon">📡</span> XAI / SHAP</div>
-      <div class="skill-chip"><span class="chip-icon">🧪</span> Unit Testing</div>
-      <div class="skill-chip"><span class="chip-icon">🗃️</span> MongoDB</div>
-    </div>
-  </div>
-</section>
 
-<!-- PUBLICATIONS -->
-<section id="publications" style="background: var(--bg2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
-  <div class="section-inner">
-    <div class="reveal">
-      <div class="section-label">Research Output</div>
-      <h2 class="section-title">Recent Publications</h2>
-      <p class="section-desc">10 peer-reviewed papers in Q1 journals. Hover to pause the carousel and read.</p>
-    </div>
-  </div>
-  <div class="pub-slider-wrapper reveal" style="padding: 0 2rem;">
-    <div class="pub-track">
 
-      <div class="pub-card">
-        <div class="pub-journal">Science of the Total Environment <span class="pub-year">2026</span></div>
-        <div class="pub-title">Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities.</div>
-        <div class="pub-authors">Islam A.R.M.T., <strong>Mamun M.A.</strong>, Tasnuva A., et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.scitotenv.2026.181581" target="_blank">doi:10.1016/j.scitotenv.2026.181581 ↗</a>
-      </div>
+## Tech Stack
 
-      <div class="pub-card">
-        <div class="pub-journal">Environmental Geochemistry & Health <span class="pub-year">2026</span></div>
-        <div class="pub-title">Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh.</div>
-        <div class="pub-authors">Islam A.R.M.T., <strong>Mamun M.A.</strong>, et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1007/s10653-026-03031-z" target="_blank">doi:10.1007/s10653-026-03031-z ↗</a>
-      </div>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
 
-      <div class="pub-card">
-        <div class="pub-journal">Science of the Total Environment <span class="pub-year">2026</span></div>
-        <div class="pub-title">Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers.</div>
-        <div class="pub-authors"><strong>Mamun M.A.</strong>, Aktar M.N., Uddin M.N., et al. &amp; Islam A.R.M.T.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.scitotenv.2025.181190" target="_blank">doi:10.1016/j.scitotenv.2025.181190 ↗</a>
-      </div>
+## 🎨 Beyond Code
+When I'm not analyzing data or training models, I enjoy painting! 
+<p float="right">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="82" height="100"> 
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="82" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="150" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="150" height="100">
+</p>
+[**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
 
-      <div class="pub-card">
-        <div class="pub-journal">Marine Pollution Bulletin <span class="pub-year">2026</span></div>
-        <div class="pub-title">First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis.</div>
-        <div class="pub-authors">Zesha J.H., <strong>Mamun M.A.</strong>, Islam A.R.M.T., et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.marpolbul.2025.118966" target="_blank">doi:10.1016/j.marpolbul.2025.118966 ↗</a>
-      </div>
-
-      <div class="pub-card">
-        <div class="pub-journal">Marine Pollution Bulletin <span class="pub-year">2026</span></div>
-        <div class="pub-title">Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and ML data-driven models.</div>
-        <div class="pub-authors">Islam A.R.M.T., Varol M., Mallick J., <strong>Mamun M.A.</strong>, et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.marpolbul.2025.118701" target="_blank">doi:10.1016/j.marpolbul.2025.118701 ↗</a>
-      </div>
-
-      <div class="pub-card">
-        <div class="pub-journal">Journal of Contaminant Hydrology <span class="pub-year">2025</span></div>
-        <div class="pub-title">Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis.</div>
-        <div class="pub-authors">Islam A.R.M.T., <strong>Mamun M.A.</strong>, Hasan M., et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.jconhyd.2024.104480" target="_blank">doi:10.1016/j.jconhyd.2024.104480 ↗</a>
-      </div>
-
-      <!-- Duplicates for seamless loop -->
-      <div class="pub-card">
-        <div class="pub-journal">Science of the Total Environment <span class="pub-year">2026</span></div>
-        <div class="pub-title">Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities.</div>
-        <div class="pub-authors">Islam A.R.M.T., <strong>Mamun M.A.</strong>, Tasnuva A., et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.scitotenv.2026.181581" target="_blank">doi:10.1016/j.scitotenv.2026.181581 ↗</a>
-      </div>
-      <div class="pub-card">
-        <div class="pub-journal">Environmental Geochemistry & Health <span class="pub-year">2026</span></div>
-        <div class="pub-title">Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh.</div>
-        <div class="pub-authors">Islam A.R.M.T., <strong>Mamun M.A.</strong>, et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1007/s10653-026-03031-z" target="_blank">doi:10.1007/s10653-026-03031-z ↗</a>
-      </div>
-      <div class="pub-card">
-        <div class="pub-journal">Science of the Total Environment <span class="pub-year">2026</span></div>
-        <div class="pub-title">Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers.</div>
-        <div class="pub-authors"><strong>Mamun M.A.</strong>, Aktar M.N., Uddin M.N., et al.</div>
-        <a class="pub-doi" href="https://doi.org/10.1016/j.scitotenv.2025.181190" target="_blank">doi:10.1016/j.scitotenv.2025.181190 ↗</a>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-<!-- PROJECTS -->
-<section id="projects">
-  <div class="section-inner">
-    <div class="reveal">
-      <div class="section-label">Featured Work</div>
-      <h2 class="section-title">Projects</h2>
-      <p class="section-desc">A selection of research repositories and applied ML projects on GitHub.</p>
-    </div>
-    <div class="projects-grid reveal">
-      <a class="project-card" href="https://github.com/Abdullah-TU/Research-Publications" target="_blank">
-        <div class="project-icon">📄</div>
-        <div class="project-name">Research & Publications</div>
-        <div class="project-desc">Repository of all peer-reviewed publications, manuscripts, and supplementary materials from environmental data science research.</div>
-        <span class="project-tag">XAI</span><span class="project-tag">Environmental ML</span>
-        <div class="project-arrow">→ View on GitHub</div>
-      </a>
-      <a class="project-card" href="https://github.com/Abdullah-TU/Deep-Learning-Projects" target="_blank">
-        <div class="project-icon">🧠</div>
-        <div class="project-name">Deep Learning Projects</div>
-        <div class="project-desc">CNNs, RNNs, GANs, LSTMs. Computer vision, NLP, and reinforcement learning experiments in PyTorch and TensorFlow.</div>
-        <span class="project-tag">PyTorch</span><span class="project-tag">CNNs</span><span class="project-tag">NLP</span>
-        <div class="project-arrow">→ View on GitHub</div>
-      </a>
-      <a class="project-card" href="https://github.com/Abdullah-TU/Machine-Learning-projects" target="_blank">
-        <div class="project-icon">🤖</div>
-        <div class="project-name">Classical ML Projects</div>
-        <div class="project-desc">Scikit-learn pipelines, ensemble methods, feature engineering, hyperparameter tuning, and model interpretability notebooks.</div>
-        <span class="project-tag">Scikit-learn</span><span class="project-tag">Ensemble</span>
-        <div class="project-arrow">→ View on GitHub</div>
-      </a>
-      <a class="project-card" href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer" target="_blank">
-        <div class="project-icon">📈</div>
-        <div class="project-name">Graham Investor Analyzer</div>
-        <div class="project-desc">Python tool for Benjamin Graham's defensive investor criteria — automated Piotroski F-Score and fundamental stock screening.</div>
-        <span class="project-tag">Python</span><span class="project-tag">Finance</span><span class="project-tag">Automation</span>
-        <div class="project-arrow">→ View on GitHub</div>
-      </a>
-      <a class="project-card" href="https://github.com/Abdullah-TU/Finnish-Language-Learning-App-Android" target="_blank">
-        <div class="project-icon">📲</div>
-        <div class="project-name">Finnish Language Learning App</div>
-        <div class="project-desc">Android app for learning Finnish with 4000+ words, quizzes, and puzzles — built with Java for the Google Play ecosystem.</div>
-        <span class="project-tag">Java</span><span class="project-tag">Android</span>
-        <div class="project-arrow">→ View on GitHub</div>
-      </a>
-      <a class="project-card" href="https://github.com/Abdullah-TU/Python" target="_blank">
-        <div class="project-icon">🐍</div>
-        <div class="project-name">Python Learning Repository</div>
-        <div class="project-desc">Comprehensive Python collection: data structures, OOP, file handling, JSON, library projects, and Jupyter notebooks.</div>
-        <span class="project-tag">Python</span><span class="project-tag">Jupyter</span>
-        <div class="project-arrow">→ View on GitHub</div>
-      </a>
-    </div>
-  </div>
-</section>
-
-<!-- TECH STACK -->
-<section style="background: var(--bg2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 3rem 2rem;">
-  <div class="section-inner reveal">
-    <div class="section-label" style="text-align:center;">Tech Stack</div>
-    <h2 class="section-title" style="text-align:center; margin-bottom:2rem;">Tools I Work With</h2>
-  </div>
-  <div class="slider-wrapper reveal">
-    <div class="tech-track">
-      <div class="tech-chip"><div class="tech-emoji">🐍</div><div class="tech-name">Python</div></div>
-      <div class="tech-chip"><div class="tech-emoji">📊</div><div class="tech-name">R</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🔥</div><div class="tech-name">PyTorch</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🤖</div><div class="tech-name">TensorFlow</div></div>
-      <div class="tech-chip"><div class="tech-emoji">📉</div><div class="tech-name">Power BI</div></div>
-      <div class="tech-chip"><div class="tech-emoji">☁️</div><div class="tech-name">Azure</div></div>
-      <div class="tech-chip"><div class="tech-emoji">☁️</div><div class="tech-name">AWS</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🗄️</div><div class="tech-name">PostgreSQL</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🗃️</div><div class="tech-name">MongoDB</div></div>
-      <div class="tech-chip"><div class="tech-emoji">📦</div><div class="tech-name">Git</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🗺️</div><div class="tech-name">QGIS</div></div>
-      <!-- duplicates -->
-      <div class="tech-chip"><div class="tech-emoji">🐍</div><div class="tech-name">Python</div></div>
-      <div class="tech-chip"><div class="tech-emoji">📊</div><div class="tech-name">R</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🔥</div><div class="tech-name">PyTorch</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🤖</div><div class="tech-name">TensorFlow</div></div>
-      <div class="tech-chip"><div class="tech-emoji">📉</div><div class="tech-name">Power BI</div></div>
-      <div class="tech-chip"><div class="tech-emoji">☁️</div><div class="tech-name">Azure</div></div>
-      <div class="tech-chip"><div class="tech-emoji">☁️</div><div class="tech-name">AWS</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🗄️</div><div class="tech-name">PostgreSQL</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🗃️</div><div class="tech-name">MongoDB</div></div>
-      <div class="tech-chip"><div class="tech-emoji">📦</div><div class="tech-name">Git</div></div>
-      <div class="tech-chip"><div class="tech-emoji">🗺️</div><div class="tech-name">QGIS</div></div>
-    </div>
-  </div>
-</section>
-
-<!-- EXPERIENCE -->
-<section id="experience">
-  <div class="section-inner">
-    <div class="reveal">
-      <div class="section-label">Career</div>
-      <h2 class="section-title">Work Experience</h2>
-    </div>
-    <div class="exp-timeline reveal">
-      <div class="exp-item">
-        <div class="exp-dot"></div>
-        <div class="exp-period">May 2024 – Present</div>
-        <div class="exp-title">Research Engagement & Independent Research</div>
-        <div class="exp-company">Career Transition · Salo, Finland</div>
-        <ul class="exp-desc">
-          <li>Produced 10+ peer-reviewed publications in Q1 journals on environmental AI and ML</li>
-          <li>Collaborative research with international academic groups (Bangladesh, Finland)</li>
-          <li>Actively seeking research-oriented roles in machine learning, data science, and environmental science</li>
-        </ul>
-      </div>
-      <div class="exp-item">
-        <div class="exp-dot"></div>
-        <div class="exp-period">March 2022 – June 2023</div>
-        <div class="exp-title">Master's Thesis Worker</div>
-        <div class="exp-company">Valmet Automotive EV Power Oy · Salo, Finland</div>
-        <ul class="exp-desc">
-          <li>Evaluated and selected the best BI tool & SPC software for the organization</li>
-          <li>Utilized Python, Power BI, and Excel for data analysis and visualization</li>
-          <li>Recommended Microsoft Power BI — successfully adopted company-wide</li>
-        </ul>
-      </div>
-      <div class="exp-item">
-        <div class="exp-dot"></div>
-        <div class="exp-period">August 2021 – November 2023</div>
-        <div class="exp-title">Laboratory & Quality Operator</div>
-        <div class="exp-company">Valmet Automotive EV Power Oy · Salo, Finland</div>
-        <ul class="exp-desc">
-          <li>Quality control for 48-volt battery packs — achieved 98% quality rate</li>
-          <li>Analyzed production line data in Excel, visualized insights in Power BI</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- EDUCATION -->
-<section style="background: var(--bg2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
-  <div class="section-inner">
-    <div class="reveal">
-      <div class="section-label">Academic Background</div>
-      <h2 class="section-title">Education</h2>
-    </div>
-    <div class="edu-grid reveal">
-      <div class="edu-card">
-        <div class="edu-degree">M.Sc. Computing Sciences — Data Science</div>
-        <div class="edu-uni">Tampere University, Finland</div>
-        <div class="edu-year">Completed: May 2024</div>
-        <div class="edu-courses">Pattern Recognition & ML (5/5) · Data Mining (5/5) · ML Algorithms (5/5) · Dimensionality Reduction (4/5) · Statistical Inference (4/5)</div>
-      </div>
-      <div class="edu-card">
-        <div class="edu-degree">B.Sc. Information Technology — Software Engineering</div>
-        <div class="edu-uni">Metropolia University of Applied Sciences, Finland</div>
-        <div class="edu-year">Completed: December 2017</div>
-        <div class="edu-courses">Advanced Programming (Python, Java) · Software Engineering · Web Development · Android App Development</div>
-      </div>
-      <div class="edu-card">
-        <div class="edu-degree">B.Sc. Biotechnology & Genetic Engineering</div>
-        <div class="edu-uni">Mawlana Bhashani University, Bangladesh</div>
-        <div class="edu-year">Completed: January 2010</div>
-        <div class="edu-courses">Molecular Biology · Bioinformatics · Biostatistics · Biochemistry · Genetics</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- BEYOND CODE -->
-<section>
-  <div class="section-inner">
-    <div class="reveal">
-      <div class="section-label">Beyond Code</div>
-      <h2 class="section-title">🎨 Art & Paintings</h2>
-      <p class="section-desc">When not modeling data or training neural networks, I pick up a brush. A few works from my collection:</p>
-    </div>
-    <div class="slider-wrapper reveal">
-      <div class="slider-track" style="animation-duration: 22s;">
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/Magnolia.jpg" alt="Magnolia" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/leppavara.jpg" alt="Leppävaara" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/Shimul.jpg" alt="Shimul" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/Global%20warming.jpg" alt="Global Warming" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/baltic%20sea.jpg" alt="Baltic Sea" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <!-- duplicates -->
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/Magnolia.jpg" alt="Magnolia" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/leppavara.jpg" alt="Leppävaara" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/Shimul.jpg" alt="Shimul" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/Global%20warming.jpg" alt="Global Warming" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-        <div style="flex-shrink:0; width:200px; height:140px; border-radius:6px; overflow:hidden; border:1px solid var(--border);">
-          <img src="https://github.com/Abdullah-TU/My-Paintings/raw/master/baltic%20sea.jpg" alt="Baltic Sea" style="width:100%; height:100%; object-fit:cover;">
-        </div>
-      </div>
-    </div>
-    <div class="reveal" style="text-align:center; margin-top:1.5rem;">
-      <a href="https://github.com/Abdullah-TU/My-Paintings" target="_blank" class="btn-ghost">View Full Gallery →</a>
-    </div>
-  </div>
-</section>
-
-<!-- CONTACT -->
-<section id="contact" class="contact-section">
-  <div class="contact-inner reveal">
-    <div class="section-label" style="text-align:center;">Get In Touch</div>
-    <h2 class="section-title" style="text-align:center;">Let's Connect & Collaborate</h2>
-    <p style="color:var(--text2); font-size:1rem; text-align:center; margin-top:0.5rem;">
-      Open to research collaborations, doctoral opportunities, and data science roles.
-    </p>
-    <div class="contact-links">
-      <a class="contact-link" href="mailto:md.abdullah.al.mamun.tu@gmail.com">
-        📧 md.abdullah.al.mamun.tu@gmail.com
-      </a>
-      <a class="contact-link" href="https://github.com/Abdullah-TU" target="_blank">
-        💻 GitHub: Abdullah-TU
-      </a>
-      <a class="contact-link" href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" target="_blank">
-        🔗 LinkedIn Profile
-      </a>
-      <a class="contact-link" href="https://scholar.google.com/citations?user=6iTitIQAAAAJ" target="_blank">
-        📚 Google Scholar
-      </a>
-      <a class="contact-link" href="https://orcid.org/0009-0001-6749-9171" target="_blank">
-        🆔 ORCID: 0009-0001-6749-9171
-      </a>
-    </div>
-  </div>
-</section>
-
-<footer>
-  Built for <span>Md. Abdullah-Al Mamun</span> · Data Scientist & Researcher · Salo, Finland · 2026
-</footer>
-
-<script>
-// Scroll reveal
-const observer = new IntersectionObserver(entries => {
-  entries.forEach(e => {
-    if (e.isIntersecting) {
-      e.target.classList.add('visible');
-    }
-  });
-}, { threshold: 0.1 });
-document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-</script>
-</body>
-</html>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-TU&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+<p align="center">
+  <i> Let's connect and collaborate!</i><br>
+  <i> md.abdullah.al.mamun.tu@gmail.com</i>
+</p>
