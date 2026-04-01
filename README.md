@@ -26,7 +26,7 @@ I am a Data Scientist/Researcher with a solid motive to create, innovate, and re
          src="https://img.shields.io/badge/GitHub-Abdullah--TU-181717?style=flat&logo=github&logoColor=white">
   </a>
 <a href="https://abdullah-tu.github.io/Portfolio_Mamun/"
-   style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
+ style="text-decoration:none!important;border:0!important;box-shadow:none!important;background-image:none!important;display:inline-block;line-height:0;">
   <img alt="Portfolio" style="display:block;"
        src="https://img.shields.io/badge/🌐_Portfolio-Website-0ef4c8?style=flat&logoColor=black">
 </a>
