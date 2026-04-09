@@ -105,6 +105,7 @@ When I'm not analyzing data or training models, I enjoy painting!
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Global%20warming.jpg" width="150" height="100">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="150" height="100">
 </p>
+
 [**View Full Gallery →**](https://github.com/Abdullah-TU/My-Paintings)
 
 <p align="center">
