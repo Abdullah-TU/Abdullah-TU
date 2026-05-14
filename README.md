@@ -17,11 +17,11 @@ version control, cloud computing, test automation, and laboratory and industrial
 ## Academic & professional skills 
 ## 🎓 Skills 💪
 
-👨‍💻 **Programming:** Python, R, Java, JavaScript  
-🗄️ **Databases:** SQL, PostgreSQL, MySQL, MongoDB  
-📈 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Microsoft Power BI  
+👨‍💻 **Programming:** Python, R, JavaScript, MATLAB  
+🗄️ **Databases:** SQL, PostgreSQL, MySQL, MongoDB
 🤖 **Machine Learning:** NumPy, Pandas, SciPy, Scikit-learn, Neural Networks, TensorFlow, PyTorch, NLP, Text Analysis, Image Analysis  
 🧠 **Deep Learning:** CNNs, RNNs, GANs, LSTMs, NLP with Deep Learning, Computer Vision, Transfer Learning, Reinforcement Learning  
+📈 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Microsoft Power BI 
 📁 **Version Control:** Git, GitHub  
 📲 **Android Development:** Android App Development (Java)  
 ☁️ **Cloud:** Microsoft Azure  
