@@ -1,6 +1,6 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
-**Researcher & Data Scientist** | **Salo, Finland**
-**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science** |
+**Researcher & Data Scientist** | **Salo, Finland**  
+**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 **M.Sc. Computing Sciences (Data Science), Tampere University** | **B.Sc. Information Technology, Metropolia UAS, Finland**
 
 **Core Expertise:** Python, PyTorch, TensorFlow, ensemble methods (XGBoost, CatBoost), deep learning (LSTM, DNN), Bayesian modeling, SHAP explainability, physics-informed ML, spatiotemporal prediction
