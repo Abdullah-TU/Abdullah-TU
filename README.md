@@ -3,7 +3,7 @@
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
 ![Education](https://img.shields.io/badge/M.Sc.-Computing_Sciences_(Data_Science),_Tampere_University-blue?style=flat-square)
-![Education](https://img.shields.io/badge/B.Sc.-Information_Technology,_Metropolia_UAS-blue?style=flat-square)
+![Education](https://img.shields.io/badge/B.Sc.-Information_Technology,_Metropolia_UAS,_Finland-blue?style=flat-square)
 
 **Core Expertise:** Python, PyTorch, TensorFlow, ensemble methods (XGBoost, CatBoost), deep learning (LSTM, DNN), Bayesian modeling, SHAP explainability, physics-informed ML, spatiotemporal prediction
 
