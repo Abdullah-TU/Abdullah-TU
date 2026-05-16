@@ -20,6 +20,7 @@
   <a href="https://abdullah-tu.github.io/Portfolio_Mamun/" style="text-decoration:none;"><img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Website-0ef4c8?style=flat&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" style="text-decoration:none;"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
+
 ## Academic & professional skills 
 ## 🎓 Skills 💪
 
