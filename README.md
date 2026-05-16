@@ -1,5 +1,5 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
-# Researcher & Data Scientist | Salo, Finland
+**Researcher & Data Scientist** | **Salo, Finland**
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science** |
 **M.Sc. Computing Sciences (Data Science), Tampere University** | **B.Sc. Information Technology, Metropolia UAS, Finland**
 
