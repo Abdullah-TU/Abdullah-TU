@@ -21,20 +21,28 @@
   <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" style="text-decoration:none;"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
-## Academic & professional skills 
+## Academic & Professional Skills 
 ## 🎓 Skills 💪
 
 👨‍💻 **Programming:** Python, R, JavaScript, MATLAB  
-🗄️ **Databases:** SQL, PostgreSQL, MySQL, MongoDB
-🤖 **Machine Learning:** NumPy, Pandas, SciPy, Scikit-learn, Neural Networks, TensorFlow, PyTorch, NLP, Text Analysis, Image Analysis  
+
+🗄️ **Machine Learning & Data:** NumPy, Pandas, SciPy, Scikit-learn, Neural Networks, TensorFlow, PyTorch, NLP, Text Analysis, Image Analysis | SQL, PostgreSQL, MySQL, MongoDB
+
 🧠 **Deep Learning:** CNNs, RNNs, GANs, LSTMs, NLP with Deep Learning, Computer Vision, Transfer Learning, Reinforcement Learning  
+
 📈 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Microsoft Power BI 
+
 📁 **Version Control:** Git, GitHub  
+
 📲 **Android Development:** Android App Development (Java)  
+
 ☁️ **Cloud:** Microsoft Azure  
+
 🧪 **Test Automation:** Unit Testing, Integration Testing  
+
 🌐 **Web Scraping**  
-🌍 **GIS Mapping:** QGIS  
+
+🌍 **GIS Mapping:** QGIS
 
 
 ## Featured Projects
