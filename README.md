@@ -6,8 +6,6 @@
 
 **Core Expertise:** Python, PyTorch, TensorFlow, ensemble methods (XGBoost, CatBoost), deep learning (LSTM, DNN), Bayesian modeling, SHAP explainability, physics-informed ML, spatiotemporal prediction
 
-**Research Impact:** Published frameworks combining explainable AI, physics-informed learning, and probabilistic methods for high-stakes prediction problems. Strong track record in model validation, cross-validation, and uncertainty analysis.
-
 🎯 Open to data science positions and doctoral opportunities  
 🤝 Available for research collaborations
 
