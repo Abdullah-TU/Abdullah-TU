@@ -1,5 +1,4 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
-**Researcher & Data Scientist** | **Salo, Finland**  
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
 ![Education](https://img.shields.io/badge/M.Sc.-Computing_Sciences_(Data_Science),_Tampere_University-blue?style=flat-square)
