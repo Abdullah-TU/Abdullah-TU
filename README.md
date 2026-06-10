@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" style="text-decoration:none;"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
-**
+
 
 ![Education](https://img.shields.io/badge/M.Sc.-Computing_Sciences_(Data_Science),_Tampere_University-blue?style=flat-square)
 ![Education](https://img.shields.io/badge/B.Sc.-Information_Technology,_Metropolia_UAS,_Finland-blue?style=flat-square)
