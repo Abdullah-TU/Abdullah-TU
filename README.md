@@ -1,4 +1,5 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
+**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" style="text-decoration:none;"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
@@ -9,7 +10,7 @@
   <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-a23416b8/" style="text-decoration:none;"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
-**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
+
 
 ![Education](https://img.shields.io/badge/M.Sc.-Computing_Sciences_(Data_Science),_Tampere_University-blue?style=flat-square)
 ![Education](https://img.shields.io/badge/B.Sc.-Information_Technology,_Metropolia_UAS,_Finland-blue?style=flat-square)
