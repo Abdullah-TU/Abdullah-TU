@@ -4,7 +4,6 @@
 ![Education](https://img.shields.io/badge/M.Sc.-Computing_Sciences_(Data_Science),_Tampere_University-blue?style=flat-square)
 ![Education](https://img.shields.io/badge/B.Sc.-Information_Technology,_Metropolia_UAS,_Finland-blue?style=flat-square)
 
-🤝 Available for research collaborations
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" style="text-decoration:none;"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
