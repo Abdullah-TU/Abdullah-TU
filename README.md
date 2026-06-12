@@ -1,9 +1,9 @@
 # Hi, I'm Md. Abdullah-Al Mamun 
 
+**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
+
 🎓 **M.Sc. in Computing Sciences (Data Science)** — *Tampere University*  
 🎓 **B.Sc. in Information Technology** — *Metropolia UAS, Finland*
-
-**Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" style="text-decoration:none;"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
