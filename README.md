@@ -2,8 +2,8 @@
 
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
-🎓 **M.Sc. in Computing Sciences (Data Science)** — *Tampere University*  
-🎓 **B.Sc. in Information Technology** — *Metropolia UAS, Finland*
+🎓 **M.Sc. in Computing Sciences (Data Science)**: **Tampere University**,**Tampere**, **Finland**   
+🎓 **B.Sc. in Information Technology**: **Metropolia University of Applied Sciences, Helsinki, Finland**
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=6iTitIQAAAAJ&hl=en&authuser=1" style="text-decoration:none;"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
