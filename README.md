@@ -23,16 +23,11 @@
 **Deep Learning:** CNNs, RNNs, GANs, LSTMs, NLP with Deep Learning, Computer Vision, Transfer Learning, Reinforcement Learning  
 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Microsoft Power BI  
 **Version Control:** Git, GitHub  
-
-📲 **Android Development:** Android App Development (Java)  
-
-☁️ **Cloud:** Microsoft Azure  
-
-🧪 **Test Automation:** Unit Testing, Integration Testing  
-
-🌐 **Web Scraping**  
-
-🌍 **GIS Mapping:** QGIS
+**Android Development:** Android App Development (Java)  
+**Cloud:** Microsoft Azure  
+**Test Automation:** Unit Testing, Integration Testing  
+**Web Scraping**  
+**GIS Mapping:** QGIS
 
 ## Featured Projects
 
