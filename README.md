@@ -15,15 +15,15 @@
 </p>
 
 ## Academic & professional skills  
-## 🎓 Skills 💪 
+## </> Skills 💪 
 
-👨‍💻 **Programming:** Python, R, JavaScript, MATLAB  
+**Programming:** Python, R, JavaScript, MATLAB  
 
-🗄️ **Databases:** SQL, PostgreSQL, MySQL, MongoDB  
+**Databases:** SQL, PostgreSQL, MySQL, MongoDB  
 
-🤖 **Machine Learning:** NumPy, Pandas, SciPy, Scikit-learn, Neural Networks, TensorFlow, PyTorch, NLP, Text Analysis, Image Analysis  
+**Machine Learning:** NumPy, Pandas, SciPy, Scikit-learn, Neural Networks, TensorFlow, PyTorch, NLP, Text Analysis, Image Analysis  
 
-🧠 **Deep Learning:** CNNs, RNNs, GANs, LSTMs, NLP with Deep Learning, Computer Vision, Transfer Learning, Reinforcement Learning  
+**Deep Learning:** CNNs, RNNs, GANs, LSTMs, NLP with Deep Learning, Computer Vision, Transfer Learning, Reinforcement Learning  
 
 📈 **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Microsoft Power BI  
 
