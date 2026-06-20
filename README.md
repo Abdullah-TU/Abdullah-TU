@@ -15,7 +15,6 @@
 </p>
 
 ## Academic & professional skills  
-## **</>** Skills 
 
 **Programming:** Python, R, JavaScript, MATLAB  
 **Databases:** SQL, PostgreSQL, MySQL, MongoDB  
