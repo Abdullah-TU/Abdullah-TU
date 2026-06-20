@@ -37,11 +37,6 @@
   <a href="https://github.com/Abdullah-TU/Graham-Defensive-Investor-Analyzer" style="text-decoration:none;"><img alt="Graham Defensive Investor Analyzer Repository" src="https://img.shields.io/badge/Graham%20Defensive%20Investor%20Analyzer-Repository-6B8E23?style=flat&logo=github&logoColor=white"></a>
 </p>
 
-### Research Highlights 
-I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
-
-
-
 ## Recent Publications
 
 <p style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
@@ -98,8 +93,8 @@ I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I 
 <a href="https://doi.org/10.1016/j.scitotenv.2024.176024">https://doi.org/10.1016/j.scitotenv.2024.176024</a>
 </p>
   
-
-
+### Research Highlights 
+I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
 ## Tech Stack
 
