@@ -1,6 +1,5 @@
 # Md. Abdullah-Al Mamun 
-Data Scientist & Researcher
-
+***Data Scientist & Researcher***
 
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
