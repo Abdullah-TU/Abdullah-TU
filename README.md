@@ -49,55 +49,55 @@
 </p>
 
 <p>
-1. <b>Mamun, M. A.</b>, Aktar, M. N., Tasnuva, A., Islam, A. R. M. T., Mishra, M., et al. (2026). <i>Decoding flood resilience in riverine Bangladesh: A concordance–discordance framework integrating AHP–TOPSIS and PROMETHEE II.</i> Ecohydrology &amp; Hydrobiology, 26(4), 100812.<br>
+1. <b>Mamun, M. A. A.</b>, Aktar, M. N., Tasnuva, A., Islam, A. R. M. T., Mishra, M., et al. (2026). <i>Decoding flood resilience in riverine Bangladesh: A concordance–discordance framework integrating AHP–TOPSIS and PROMETHEE II.</i> Ecohydrology &amp; Hydrobiology, 26(4), 100812.<br>
 <a href="https://doi.org/10.1016/j.ecohyd.2026.100812">https://doi.org/10.1016/j.ecohyd.2026.100812</a>
 </p>
 
 <p>
-2. <b>Mamun, M. A.</b>, Aktar, M. N., Mallick, J., Alqadhi, S., &amp; Islam, A. R. M. T. (2026). <i>Hybrid ensemble machine learning for groundwater level prediction in data-scarce northern Bangladesh.</i> Urban Water Journal.<br>
+2. <b>Mamun, M. A. A.</b>, Aktar, M. N., Mallick, J., Alqadhi, S., &amp; Islam, A. R. M. T. (2026). <i>Hybrid ensemble machine learning for groundwater level prediction in data-scarce northern Bangladesh.</i> Urban Water Journal.<br>
 <a href="https://doi.org/10.1080/1573062X.2026.2649885">https://doi.org/10.1080/1573062X.2026.2649885</a>
 </p>
 
 <p>
-3. Islam, A. R. M. T., <b>Mamun, M. A.</b>, Tasnuva, A., Aktar, M. N., Mishra, M., Al Mamun, A., &amp; Moin, M. J. (2026). <i>Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities.</i> Science of the Total Environment.<br>
+3. Islam, A. R. M. T., <b>Mamun, M. A. A.</b>, Tasnuva, A., Aktar, M. N., Mishra, M., Al Mamun, A., &amp; Moin, M. J. (2026). <i>Living on the flood line: Constructing and validating a combined multidimensional resilience index for rural riverine floodplain communities.</i> Science of the Total Environment.<br>
 <a href="https://doi.org/10.1016/j.scitotenv.2026.181581">https://doi.org/10.1016/j.scitotenv.2026.181581</a>
 </p>
 
 <p>
-4. Islam, A. R. M. T., <b>Mamun, M. A.</b>, Uddin, M. N., Sowrav, S. F. F., Alam, M. N. E., Khan, S. R., Chowdhury, M. H., &amp; Choudhury, T. R. (2026). <i>Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh.</i> Environmental Geochemistry and Health.<br>
+4. Islam, A. R. M. T., <b>Mamun, M. A. A.</b>, Uddin, M. N., Sowrav, S. F. F., Alam, M. N. E., Khan, S. R., Chowdhury, M. H., &amp; Choudhury, T. R. (2026). <i>Explainable and physics-informed machine learning for seasonal water quality prediction in the monsoon-driven Padma River Basin, Bangladesh.</i> Environmental Geochemistry and Health.<br>
 <a href="https://doi.org/10.1007/s10653-026-03031-z">https://doi.org/10.1007/s10653-026-03031-z</a>
 </p>
 
 <p>
-5. <b>Mamun, M. A.</b>, Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., &amp; Islam, A. R. M. T. (2026). <i>Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers.</i> Science of the Total Environment, 1011, 181190.<br>
+5. <b>Mamun, M. A. A.</b>, Aktar, M. N., Uddin, M. N., Chowdhury, M. H., Islam, M. S., Rahman, M. S., Uddin, M. R., Hossain, M. J., Zahid, A., Senapathi, V., &amp; Islam, A. R. M. T. (2026). <i>Hybrid data-driven framework for interpretable prediction of nitrate and sulfate risks in coastal aquifers.</i> Science of the Total Environment, 1011, 181190.<br>
 <a href="https://doi.org/10.1016/j.scitotenv.2025.181190">https://doi.org/10.1016/j.scitotenv.2025.181190</a>
 </p>
 
 <p>
-6. Islam, A. R. M. T., Varol, M., Mallick, J., <b>Mamun, M. A.</b>, Mia, M. Y., Siddique, M. A. B., Islam, M. S., &amp; Aktar, M. N. (2026). <i>Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models.</i> Marine Pollution Bulletin, 222 (Part 1), 118701.<br>
+6. Islam, A. R. M. T., Varol, M., Mallick, J., <b>Mamun, M. A. A.</b>, Mia, M. Y., Siddique, M. A. B., Islam, M. S., &amp; Aktar, M. N. (2026). <i>Tracing source footprints of heavy metal(oid)s in coastal soils using traditional statistical techniques and machine learning data-driven models.</i> Marine Pollution Bulletin, 222 (Part 1), 118701.<br>
 <a href="https://doi.org/10.1016/j.marpolbul.2025.118701">https://doi.org/10.1016/j.marpolbul.2025.118701</a>
 </p>
 
 <p>
-7. Bushra, A., <b>Mamun, M. A.</b>, &amp; Islam, A. R. M. T. (2026). <i>Influence of climate drivers on extreme precipitation in Bangladesh: Spatiotemporal patterns and underlying mechanisms.</i> International Journal of Climatology, e70362.<br>
+7. Bushra, A., <b>Mamun, M. A. A.</b>, &amp; Islam, A. R. M. T. (2026). <i>Influence of climate drivers on extreme precipitation in Bangladesh: Spatiotemporal patterns and underlying mechanisms.</i> International Journal of Climatology, e70362.<br>
 <a href="https://doi.org/10.1002/joc.70362">https://doi.org/10.1002/joc.70362</a>
 </p>
 
 <p>
-8. Zesha, J. H., <b>Mamun, M. A.</b>, Islam, A. R. M. T., Habib, M. A., &amp; Khan, R. (2025). <i>First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis.</i> Marine Pollution Bulletin, 223, 118966.<br>
+8. Zesha, J. H., <b>Mamun, M. A. A.</b>, Islam, A. R. M. T., Habib, M. A., &amp; Khan, R. (2025). <i>First probabilistic radiological risk appraisal of Bay of Bengal beach sands: Explicit spatial hot-spot analysis.</i> Marine Pollution Bulletin, 223, 118966.<br>
 <a href="https://doi.org/10.1016/j.marpolbul.2025.118966">https://doi.org/10.1016/j.marpolbul.2025.118966</a>
 </p>
 
 <p>
-9. Islam, A. R. M. T., <b>Mamun, M. A.</b>, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., &amp; Senapathi, V. (2024). <i>Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis.</i> Journal of Contaminant Hydrology, 269, 104480.<br>
+9. Islam, A. R. M. T., <b>Mamun, M. A. A.</b>, Hasan, M., Aktar, M. N., Uddin, M. N., Siddique, M. A. B., Chowdhury, M. H., Islam, M. S., Bari, A. B. M. M., Idris, A. M., &amp; Senapathi, V. (2024). <i>Optimizing coastal groundwater quality predictions: A novel data mining framework with cross-validation, bootstrapping, and entropy analysis.</i> Journal of Contaminant Hydrology, 269, 104480.<br>
 <a href="https://doi.org/10.1016/j.jconhyd.2024.104480">https://doi.org/10.1016/j.jconhyd.2024.104480</a>
 </p>
 
 <p>
-10. <b>Mamun, M. A.</b>, Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M. M., Idris, A. M., &amp; Senapathi, V. (2024). <i>Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach.</i> Science of the Total Environment.<br>
+10. <b>Mamun, M. A. A.</b>, Islam, A. R. M. T., Aktar, M. N., Uddin, M. N., Islam, M. S., Pal, S. C., Islam, A., Bari, A. B. M. M., Idris, A. M., &amp; Senapathi, V. (2024). <i>Predicting groundwater phosphate levels in coastal multi-aquifers: A geostatistical and data-driven approach.</i> Science of the Total Environment.<br>
 <a href="https://doi.org/10.1016/j.scitotenv.2024.176024">https://doi.org/10.1016/j.scitotenv.2024.176024</a>
 </p>
-  
+
 ### Research Highlights 
 I hold an M.Sc. in Data Science from Tampere University (completed May 2024). I am actively expanding my research portfolio in preparation for doctoral studies and welcome academic and interdisciplinary collaborations🤝. 
 
