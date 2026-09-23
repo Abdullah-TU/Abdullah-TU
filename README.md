@@ -1,4 +1,5 @@
-# Hi, I'm Md. Abdullah-Al Mamun 
+# Md. Abdullah-Al Mamun 
+## Data Scientist & Researcher
 
 **Machine Learning** | **Deep Learning** | **Artificial Intelligence** | **Data Science**  
 
